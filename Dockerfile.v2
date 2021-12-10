@@ -1,0 +1,10 @@
+FROM mhart/alpine-node:12.16.1
+
+RUN echo "https://mirrors.ustc.edu.cn/alpine/v3.9/main/" > /etc/apk/repositories && \
+  apk add --no-cache --virtual builds-deps build-base python
+
+RUN npm config set registry https://registry.npm.taobao.org
+RUN echo "done"
+
+
+# gcc g++ make libpng-dev

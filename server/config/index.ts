@@ -24,7 +24,7 @@ export const ONE_MONTH_IN_MS = 30 * 24 * ONE_HOUR_IN_MS;
 // console.log('NODE_ENV',NODE_ENV)
 
 export const CONFIG_MONGO = {
-  host: dev ? '150.158.175.77' : 'mongodb',
+  host: dev ? '127.0.0.1' : 'mongodb',
   database: dev ? 'test-jx-tram' : JX_DATABASE,
   port: dev ? '27099' : '27017',
 };

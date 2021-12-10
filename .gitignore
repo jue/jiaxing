@@ -13,3 +13,4 @@ files/*
 **/__tests__/**/*.pdf
 
 coverage
+db

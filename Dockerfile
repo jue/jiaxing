@@ -7,7 +7,6 @@ COPY . /app
 WORKDIR /app
 
 RUN npm config set registry https://registry.npm.taobao.org
-RUN npm install
 RUN mkdir ycache
 RUN yarn install --cache-folder ./ycache
 RUN yarn build

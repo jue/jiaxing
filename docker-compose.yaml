@@ -1,0 +1,41 @@
+version: "3"
+services:
+  redis:
+    image: redis:latest
+    restart: always
+  mongodb:
+    image: mongo:latest
+    restart: always
+    volumes:
+      - ./db:/data/db
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: ''
+      ME_CONFIG_MONGODB_ADMINPASSWORD: ''
+      ME_CONFIG_MONGODB_URL: mongodb://mongodb:27017/
+  app:
+    image: jx-tram:latest
+    # build:
+    #     context: .
+    #     dockerfile: Dockerfile.v2
+    environment:
+      - AUDITING_SERVER_URI=http://127.0.0.1:7001/t
+      - JX_DATABASE=jx-tram
+    # volumes:
+    #   - ./:/app
+    restart: always
+    depends_on:
+      - redis
+      - mongodb
+    ports:
+      - "3000:3000"
+    command: 
+      - /bin/sh
+      - -c
+      - |
+        cd /app
+        yarn start
