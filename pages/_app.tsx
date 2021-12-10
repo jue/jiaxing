@@ -28,6 +28,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
         />
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/jue/static@master/style/jiaxing/reset.css">
       </Head>
       <CssBaseline />
       <Component {...pageProps} />
