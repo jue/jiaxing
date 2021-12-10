@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "jsx": "preserve",
+    "sourceMap": false,
+    "experimentalDecorators": true,
+    "noImplicitUseStrict": true,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true
+  },
+  "exclude": [
+    "node_modules",
+    "out",
+    ".next"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "typings/*.d.ts"
+  ],
+  "paths": {
+    "react-table": [
+      "typings/react-table.d.ts"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+.DS_STORE
+.next
+.vscode
+.history
+
+node_modules
+test.js
+*.log
+*.zip
+
+bin
+files/*
+**/__tests__/**/*.pdf
+
+coverage

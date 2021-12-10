@@ -1,0 +1,8763 @@
+{
+  "data": [
+    {
+      "id": "4563",
+      "text": "总工期",
+      "start_date": "01-05-2020 08:00",
+      "duration": "610",
+      "progress": 0,
+      "open": true,
+      "parent": "0",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7635",
+      "text": "T1线首通段土建部分[嘉兴站（不含）~嘉兴南站]",
+      "start_date": "12-05-2020 08:00",
+      "duration": "536",
+      "progress": 0,
+      "open": true,
+      "parent": "4563",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7636",
+      "text": "正线土建工程-1（桩基+桥梁+排水）",
+      "start_date": "12-05-2020 08:00",
+      "duration": "240",
+      "progress": 0,
+      "open": true,
+      "parent": "7635",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7637",
+      "text": "站前路段",
+      "start_date": "30-07-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7636",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7638",
+      "text": "交通疏解、施工围挡封闭（延米，0.3km）",
+      "start_date": "30-07-2020 08:00",
+      "duration": "1",
+      "progress": 0,
+      "open": true,
+      "parent": "7637",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7639",
+      "text": "分隔带及设施拆除",
+      "start_date": "30-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7637",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7640",
+      "text": "正线PHC桩（180根，1台设备，每天13根）",
+      "start_date": "05-08-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7637",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7641",
+      "text": "庆丰路段",
+      "start_date": "12-05-2020 08:00",
+      "duration": "240",
+      "progress": 0,
+      "open": true,
+      "parent": "7636",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7642",
+      "text": "施工围挡封闭（延米，4km）",
+      "start_date": "12-05-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7643",
+      "text": "分隔带及设施拆除",
+      "start_date": "12-05-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7644",
+      "text": "正线PHC管桩（总计2369根，已完成1389根）",
+      "start_date": "18-05-2020 08:00",
+      "duration": "51",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8433",
+      "text": "正线PHC管桩（剩余980根+300根，4台设备，每天50根）",
+      "start_date": "08-07-2020 08:00",
+      "duration": "24",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7645",
+      "text": "正线钻孔灌注桩（67根，每天1根）",
+      "start_date": "18-07-2020 08:00",
+      "duration": "67",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7646",
+      "text": "桥梁改造",
+      "start_date": "07-07-2020 08:00",
+      "duration": "114",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7647",
+      "text": "塘浜桥改造（三跨）",
+      "start_date": "17-07-2020 08:00",
+      "duration": "87",
+      "progress": 0,
+      "open": true,
+      "parent": "7646",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7648",
+      "text": "桥梁拆除",
+      "start_date": "17-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7647",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7649",
+      "text": "围堰施工",
+      "start_date": "24-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7647",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7650",
+      "text": "钻孔灌注桩施工（ø1000，16根36m）",
+      "start_date": "03-08-2020 08:00",
+      "duration": "25",
+      "progress": 0,
+      "open": true,
+      "parent": "7647",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7651",
+      "text": "新建立柱、桥台",
+      "start_date": "28-08-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7647",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7652",
+      "text": "新建盖梁",
+      "start_date": "18-09-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7647",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7653",
+      "text": "新建有轨电车槽梁",
+      "start_date": "09-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7647",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7654",
+      "text": "更换空心板梁",
+      "start_date": "09-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7647",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7655",
+      "text": "陶家浜桥改造（单跨）",
+      "start_date": "18-07-2020 08:00",
+      "duration": "77",
+      "progress": 0,
+      "open": true,
+      "parent": "7646",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7656",
+      "text": "桥梁拆除",
+      "start_date": "18-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7655",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7657",
+      "text": "围堰施工",
+      "start_date": "28-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7655",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7658",
+      "text": "钻孔灌注施工(10根36m∅1m)",
+      "start_date": "04-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7655",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7659",
+      "text": "新建立柱、桥台（8个桥台）",
+      "start_date": "24-08-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7655",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7660",
+      "text": "新建有轨电车槽梁",
+      "start_date": "30-09-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7655",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7661",
+      "text": "更换空心板梁",
+      "start_date": "30-09-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7655",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7662",
+      "text": "五环洞港桥改造（三跨）",
+      "start_date": "20-07-2020 08:00",
+      "duration": "100",
+      "progress": 0,
+      "open": true,
+      "parent": "7646",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7663",
+      "text": "桥梁拆除",
+      "start_date": "20-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7662",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7664",
+      "text": "围堰施工",
+      "start_date": "30-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7662",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7665",
+      "text": "钻孔灌注桩施工（ø1000，10根36m）",
+      "start_date": "06-08-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7662",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7666",
+      "text": "新建桥台、承台（4个）",
+      "start_date": "21-08-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7662",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7667",
+      "text": "新建墩柱（2根）",
+      "start_date": "07-09-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7662",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7668",
+      "text": "新建盖梁（2个）",
+      "start_date": "28-09-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7662",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7669",
+      "text": "新建有轨电车槽梁",
+      "start_date": "25-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7662",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7670",
+      "text": "更换空心板梁",
+      "start_date": "25-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7662",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7671",
+      "text": "赖施浜桥改造（单跨）",
+      "start_date": "07-07-2020 08:00",
+      "duration": "57",
+      "progress": 0,
+      "open": true,
+      "parent": "7646",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7672",
+      "text": "桥梁拆除",
+      "start_date": "07-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7671",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7673",
+      "text": "钻孔桩施工（ø1000，4根40m）",
+      "start_date": "17-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7671",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7674",
+      "text": "新建立柱、桥台（6根）",
+      "start_date": "03-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7671",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7675",
+      "text": "新建有轨电车槽梁",
+      "start_date": "30-08-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7671",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7676",
+      "text": "更换空心板梁",
+      "start_date": "30-08-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7671",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7677",
+      "text": "合作港桥改造（三跨）",
+      "start_date": "17-07-2020 08:00",
+      "duration": "62",
+      "progress": 0,
+      "open": true,
+      "parent": "7646",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7678",
+      "text": "桥梁拆除",
+      "start_date": "17-07-2020 08:00",
+      "duration": "5",
+      "progress": 0,
+      "open": true,
+      "parent": "7677",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7679",
+      "text": "钻孔灌注桩施工（ø1000，6根40m）",
+      "start_date": "22-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7677",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7680",
+      "text": "新建立柱、桥台（2个）",
+      "start_date": "08-08-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7677",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7681",
+      "text": "新建有轨电车槽梁",
+      "start_date": "14-09-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7677",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7682",
+      "text": "更换空心板梁",
+      "start_date": "14-09-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7677",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7683",
+      "text": "文贤港桥改造（三跨）",
+      "start_date": "07-07-2020 08:00",
+      "duration": "114",
+      "progress": 0,
+      "open": true,
+      "parent": "7646",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7684",
+      "text": "桥梁拆除",
+      "start_date": "07-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7683",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7685",
+      "text": "围堰施工",
+      "start_date": "17-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7683",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7686",
+      "text": "钻孔灌注桩施工（ø1000，18根33m）",
+      "start_date": "27-07-2020 08:00",
+      "duration": "25",
+      "progress": 0,
+      "open": true,
+      "parent": "7683",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7687",
+      "text": "新建承台、桥台（4个）",
+      "start_date": "28-08-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7683",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7688",
+      "text": "新建立柱（2根）",
+      "start_date": "14-09-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7683",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7689",
+      "text": "新建盖梁（2个）",
+      "start_date": "05-10-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7683",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7690",
+      "text": "新建有轨电车槽梁",
+      "start_date": "26-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7683",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7691",
+      "text": "更换空心板梁",
+      "start_date": "26-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7683",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8445",
+      "text": "吴家浜桥改造（单跨）",
+      "start_date": "18-07-2020 08:00",
+      "duration": "77",
+      "progress": 0,
+      "open": true,
+      "parent": "7646",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8446",
+      "text": "桥梁拆除",
+      "start_date": "18-07-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "8445",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8447",
+      "text": "围堰施工",
+      "start_date": "28-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "8445",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8448",
+      "text": "钻孔灌注施工(10根36m∅1m)",
+      "start_date": "04-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "8445",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8449",
+      "text": "新建立柱、桥台（8个桥台）",
+      "start_date": "24-08-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8445",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8450",
+      "text": "新建有轨电车槽梁",
+      "start_date": "30-09-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "8445",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8451",
+      "text": "更换空心板梁",
+      "start_date": "30-09-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "8445",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7692",
+      "text": "长水路地下通道",
+      "start_date": "27-05-2020 08:00",
+      "duration": "225",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7693",
+      "text": "设计方案稳定、管线迁改及围挡施工",
+      "start_date": "27-05-2020 08:00",
+      "duration": "70",
+      "progress": 0,
+      "open": true,
+      "parent": "7692",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7694",
+      "text": "围护结构施工（含封堵墙）",
+      "start_date": "06-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7692",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7695",
+      "text": "土方开挖",
+      "start_date": "16-08-2020 08:00",
+      "duration": "5",
+      "progress": 0,
+      "open": true,
+      "parent": "7692",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7696",
+      "text": "地下通道逆作顶板施工",
+      "start_date": "21-08-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7692",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7697",
+      "text": "顶板养护及防水施工",
+      "start_date": "28-08-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7692",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7698",
+      "text": "土方回填施工",
+      "start_date": "04-09-2020 08:00",
+      "duration": "5",
+      "progress": 0,
+      "open": true,
+      "parent": "7692",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7699",
+      "text": "地道与两侧房产结构相接部分",
+      "start_date": "09-09-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "7692",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7700",
+      "text": "百川路暗桥",
+      "start_date": "27-05-2020 08:00",
+      "duration": "156",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7701",
+      "text": "设计方案稳定",
+      "start_date": "27-05-2020 08:00",
+      "duration": "66",
+      "progress": 0,
+      "open": true,
+      "parent": "7700",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7702",
+      "text": "管线迁改",
+      "start_date": "01-08-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7700",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7703",
+      "text": "钻孔灌注桩施工",
+      "start_date": "31-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7700",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7704",
+      "text": "拉森钢板桩围护结构施工",
+      "start_date": "31-08-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7700",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7705",
+      "text": "土方开挖",
+      "start_date": "15-09-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7700",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7706",
+      "text": "地下暗桥结构施工",
+      "start_date": "25-09-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7700",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7707",
+      "text": "结构养护及土方回填",
+      "start_date": "15-10-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7700",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7708",
+      "text": "市政排水施工",
+      "start_date": "22-07-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7641",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7709",
+      "text": "由拳路段",
+      "start_date": "12-05-2020 08:00",
+      "duration": "188",
+      "progress": 0,
+      "open": true,
+      "parent": "7636",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7710",
+      "text": "侧分带拆除硬化、设施拆除（共计5580m，已完成剩余3500m）",
+      "start_date": "12-05-2020 08:00",
+      "duration": "56",
+      "progress": 0,
+      "open": true,
+      "parent": "7709",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8434",
+      "text": "侧分带拆除硬化、设施拆除（剩余2080m）",
+      "start_date": "07-07-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7709",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7711",
+      "text": "施工围挡封闭（延米，2.8km）",
+      "start_date": "14-07-2020 08:00",
+      "duration": "18",
+      "progress": 0,
+      "open": true,
+      "parent": "7709",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7712",
+      "text": "正线PHC桩（2081根，3台设备，每天60根）",
+      "start_date": "20-07-2020 08:00",
+      "duration": "32",
+      "progress": 0,
+      "open": true,
+      "parent": "7709",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7713",
+      "text": "正线钻孔灌注桩（41根）",
+      "start_date": "30-07-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7709",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7714",
+      "text": "桥梁改造",
+      "start_date": "15-07-2020 08:00",
+      "duration": "124",
+      "progress": 0,
+      "open": true,
+      "parent": "7709",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7715",
+      "text": "陈家港桥改造（三跨）",
+      "start_date": "20-07-2020 08:00",
+      "duration": "119",
+      "progress": 0,
+      "open": true,
+      "parent": "7714",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7716",
+      "text": "桥梁拆除",
+      "start_date": "20-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7715",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7717",
+      "text": "围堰施工",
+      "start_date": "27-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7715",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7718",
+      "text": "钻孔灌注桩施工（ø1000，共14根，8根48m，6根42m）",
+      "start_date": "03-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7715",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7719",
+      "text": "新建桥台（8个）",
+      "start_date": "28-08-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7715",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7720",
+      "text": "新建立柱（2根）",
+      "start_date": "07-09-2020 08:00",
+      "duration": "5",
+      "progress": 0,
+      "open": true,
+      "parent": "7715",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7721",
+      "text": "新建盖梁（共6个）",
+      "start_date": "19-09-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7715",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7722",
+      "text": "新建有轨电车槽梁",
+      "start_date": "10-10-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7715",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7723",
+      "text": "更换空心板梁",
+      "start_date": "13-11-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7715",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7724",
+      "text": "长中港桥改造（三跨）",
+      "start_date": "15-07-2020 08:00",
+      "duration": "107",
+      "progress": 0,
+      "open": true,
+      "parent": "7714",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7725",
+      "text": "桥梁拆除",
+      "start_date": "15-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7724",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7726",
+      "text": "围堰施工",
+      "start_date": "22-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7724",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7727",
+      "text": "钻孔灌注桩施工（ø1000，14根，6根47m，8根52m）",
+      "start_date": "29-07-2020 08:00",
+      "duration": "25",
+      "progress": 0,
+      "open": true,
+      "parent": "7724",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7728",
+      "text": "新建承台、桥台（8个）",
+      "start_date": "26-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7724",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7729",
+      "text": "新建立柱（2根）",
+      "start_date": "08-09-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7724",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7730",
+      "text": "新建盖梁（2个）",
+      "start_date": "29-09-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7724",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7731",
+      "text": "新建有轨电车槽梁",
+      "start_date": "27-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7724",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7732",
+      "text": "更换空心板梁",
+      "start_date": "27-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7724",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7733",
+      "text": "市政排水施工",
+      "start_date": "01-08-2020 08:00",
+      "duration": "75",
+      "progress": 0,
+      "open": true,
+      "parent": "7709",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7734",
+      "text": "纺工路段",
+      "start_date": "12-05-2020 08:00",
+      "duration": "173",
+      "progress": 0,
+      "open": true,
+      "parent": "7636",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7735",
+      "text": "中分带拆除、设施拆除",
+      "start_date": "12-05-2020 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7734",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7736",
+      "text": "施工围挡封闭（延米，3.5km）",
+      "start_date": "19-05-2020 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7734",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7737",
+      "text": "正线PHC桩（2846根，已完成848根）",
+      "start_date": "18-06-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7734",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8435",
+      "text": "正线PHC桩（剩余1998根，3台设备，每天85根）",
+      "start_date": "08-07-2020 08:00",
+      "duration": "23",
+      "progress": 0,
+      "open": true,
+      "parent": "7734",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7738",
+      "text": "正线钻孔灌注桩（195根）",
+      "start_date": "18-07-2020 08:00",
+      "duration": "80",
+      "progress": 0,
+      "open": true,
+      "parent": "7734",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7739",
+      "text": "桥梁改造",
+      "start_date": "30-06-2020 08:00",
+      "duration": "124",
+      "progress": 0,
+      "open": true,
+      "parent": "7734",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7740",
+      "text": "北柴家岗桥改造（三跨）",
+      "start_date": "30-06-2020 08:00",
+      "duration": "116",
+      "progress": 0,
+      "open": true,
+      "parent": "7739",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7741",
+      "text": "桥梁拆除",
+      "start_date": "30-06-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7740",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7742",
+      "text": "围堰施工",
+      "start_date": "10-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7740",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7743",
+      "text": "钻孔灌注桩施工（ø1000，18根，28m）",
+      "start_date": "17-07-2020 08:00",
+      "duration": "35",
+      "progress": 0,
+      "open": true,
+      "parent": "7740",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7744",
+      "text": "新建承台、桥台（6个）",
+      "start_date": "28-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7740",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7745",
+      "text": "新建立柱（2根）",
+      "start_date": "10-09-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7740",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7746",
+      "text": "新建盖梁（2个）",
+      "start_date": "27-09-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7740",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7747",
+      "text": "新建有轨电车槽梁",
+      "start_date": "21-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7740",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7748",
+      "text": "更换空心板梁",
+      "start_date": "21-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7740",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7749",
+      "text": "南堰桥改造（三跨）",
+      "start_date": "07-07-2020 08:00",
+      "duration": "117",
+      "progress": 0,
+      "open": true,
+      "parent": "7739",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7750",
+      "text": "桥梁拆除",
+      "start_date": "07-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7749",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7751",
+      "text": "围堰施工",
+      "start_date": "14-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7749",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7752",
+      "text": "钻孔灌注桩施工（ø1000，12根48m，10根38m）",
+      "start_date": "21-07-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7749",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7753",
+      "text": "新建承台、桥台（10个）",
+      "start_date": "17-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7749",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7754",
+      "text": "新建立柱（2根）",
+      "start_date": "30-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7749",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7755",
+      "text": "新建盖梁（6片）",
+      "start_date": "16-09-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7749",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7756",
+      "text": "新建有轨电车槽梁",
+      "start_date": "10-10-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7749",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7757",
+      "text": "更换空心板梁",
+      "start_date": "30-10-2020 08:00",
+      "duration": "2",
+      "progress": 0,
+      "open": true,
+      "parent": "7749",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7758",
+      "text": "纺工桥改造（有轨电车部分、三跨）",
+      "start_date": "15-07-2020 08:00",
+      "duration": "109",
+      "progress": 0,
+      "open": true,
+      "parent": "7739",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7759",
+      "text": "桥梁拆除",
+      "start_date": "15-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7758",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7760",
+      "text": "围堰施工",
+      "start_date": "22-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7758",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7761",
+      "text": "钻孔灌注桩施工（34根）",
+      "start_date": "29-07-2020 08:00",
+      "duration": "23",
+      "progress": 0,
+      "open": true,
+      "parent": "7758",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7762",
+      "text": "新建承台、桥台（6个）",
+      "start_date": "28-08-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7758",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7763",
+      "text": "新建立柱（2根）",
+      "start_date": "14-09-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7758",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7764",
+      "text": "新建盖梁（6片）",
+      "start_date": "01-10-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7758",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7765",
+      "text": "新建有轨电车槽梁",
+      "start_date": "29-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7758",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7766",
+      "text": "更换空心板梁",
+      "start_date": "29-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7758",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7767",
+      "text": "长征桥改造（三跨）",
+      "start_date": "17-07-2020 08:00",
+      "duration": "107",
+      "progress": 0,
+      "open": true,
+      "parent": "7739",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7768",
+      "text": "桥梁拆除",
+      "start_date": "17-07-2020 08:00",
+      "duration": "8",
+      "progress": 0,
+      "open": true,
+      "parent": "7767",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7769",
+      "text": "围堰施工",
+      "start_date": "25-07-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7767",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7770",
+      "text": "钻孔灌注桩施工（ø1000，14根，6根45m，8根35m）",
+      "start_date": "01-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7767",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7771",
+      "text": "新建承台、桥台（4个）",
+      "start_date": "28-08-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7767",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7772",
+      "text": "新建立柱（2根）",
+      "start_date": "14-09-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7767",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7773",
+      "text": "新建盖梁（6个）",
+      "start_date": "01-10-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7767",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7774",
+      "text": "新建有轨电车槽梁",
+      "start_date": "29-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7767",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7775",
+      "text": "更换空心板梁",
+      "start_date": "29-10-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7767",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7776",
+      "text": "市政排水施工",
+      "start_date": "16-07-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7734",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7777",
+      "text": "正线土建工程-2（一体化轨道板+站台）",
+      "start_date": "15-07-2020 08:00",
+      "duration": "294",
+      "progress": 0,
+      "open": true,
+      "parent": "7635",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7778",
+      "text": "一体化轨道板",
+      "start_date": "15-07-2020 08:00",
+      "duration": "294",
+      "progress": 0,
+      "open": true,
+      "parent": "7777",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7779",
+      "text": "正线路基开挖、管桩填芯、变形缝处路基横梁、垫层施工",
+      "start_date": "15-07-2020 08:00",
+      "duration": "110",
+      "progress": 0,
+      "open": true,
+      "parent": "7778",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7780",
+      "text": "正线轨道侧向排水管道、机电型号预埋管道施工",
+      "start_date": "15-07-2020 08:00",
+      "duration": "110",
+      "progress": 0,
+      "open": true,
+      "parent": "7778",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7781",
+      "text": "正线一体化轨道板及铺轨施工",
+      "start_date": "01-08-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "7778",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7782",
+      "text": "轨道焊接、二次精调、应力放散及锁定",
+      "start_date": "20-09-2020 08:00",
+      "duration": "102",
+      "progress": 0,
+      "open": true,
+      "parent": "7778",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7783",
+      "text": "轨道柔性包裹材料施工",
+      "start_date": "01-12-2020 08:00",
+      "duration": "45",
+      "progress": 0,
+      "open": true,
+      "parent": "7778",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7784",
+      "text": "轨间排水及其余轨间工程施工",
+      "start_date": "31-12-2020 08:00",
+      "duration": "125",
+      "progress": 0,
+      "open": true,
+      "parent": "7778",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7785",
+      "text": "站台结构",
+      "start_date": "15-07-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "7777",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7786",
+      "text": "站台结构施工（16座）",
+      "start_date": "15-07-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "7785",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7787",
+      "text": "庆丰路车辆基地（土建）",
+      "start_date": "12-05-2020 08:00",
+      "duration": "536",
+      "progress": 0,
+      "open": true,
+      "parent": "7635",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7788",
+      "text": "施工准备、设计方案稳定",
+      "start_date": "12-05-2020 08:00",
+      "duration": "80",
+      "progress": 0,
+      "open": true,
+      "parent": "7787",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7789",
+      "text": "occ控制中心",
+      "start_date": "01-07-2020 08:00",
+      "duration": "122",
+      "progress": 0,
+      "open": true,
+      "parent": "7787",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7790",
+      "text": "建筑桩基础（180根，单天15根）",
+      "start_date": "01-07-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7789",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7791",
+      "text": "管桩填芯、承台浇筑",
+      "start_date": "16-07-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7789",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7792",
+      "text": "OCC房建结构及二次结构施工",
+      "start_date": "12-08-2020 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7789",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7793",
+      "text": "装饰装修、具备机电安装条件",
+      "start_date": "01-10-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7789",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7794",
+      "text": "交通枢纽配套用房",
+      "start_date": "16-07-2020 08:00",
+      "duration": "471",
+      "progress": 0,
+      "open": true,
+      "parent": "7787",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7795",
+      "text": "地下结构",
+      "start_date": "16-07-2020 08:00",
+      "duration": "471",
+      "progress": 0,
+      "open": true,
+      "parent": "7794",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7796",
+      "text": "围护结构",
+      "start_date": "16-07-2020 08:00",
+      "duration": "46",
+      "progress": 0,
+      "open": true,
+      "parent": "7795",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7797",
+      "text": "围护结构、止水帷幕及坑底加固施工",
+      "start_date": "16-07-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7796",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7798",
+      "text": "立柱桩施工（φ700，50m，324根）",
+      "start_date": "26-07-2020 08:00",
+      "duration": "36",
+      "progress": 0,
+      "open": true,
+      "parent": "7796",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7799",
+      "text": "PHC桩施工（48m，567根）",
+      "start_date": "05-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7796",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7800",
+      "text": "地下结构",
+      "start_date": "10-08-2020 08:00",
+      "duration": "113",
+      "progress": 0,
+      "open": true,
+      "parent": "7795",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7801",
+      "text": "基坑降水",
+      "start_date": "22-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7800",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7802",
+      "text": "土方开挖及支撑施工（74000方，两道砼支撑）",
+      "start_date": "10-08-2020 08:00",
+      "duration": "49",
+      "progress": 0,
+      "open": true,
+      "parent": "7800",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7803",
+      "text": "第一层土方（20000方）",
+      "start_date": "10-08-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7802",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7804",
+      "text": "第一道钢筋混凝土支撑",
+      "start_date": "13-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7802",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7805",
+      "text": "第二层土方开挖（34500方）",
+      "start_date": "27-08-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7802",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7806",
+      "text": "第二道钢筋混凝土支撑",
+      "start_date": "30-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7802",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7807",
+      "text": "第三层土方开挖（15600方）",
+      "start_date": "13-09-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7802",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7808",
+      "text": "结构施工（按沉降缝分为6段）",
+      "start_date": "16-09-2020 08:00",
+      "duration": "76",
+      "progress": 0,
+      "open": true,
+      "parent": "7800",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7809",
+      "text": "底板（两个作业面、7天一段）",
+      "start_date": "16-09-2020 08:00",
+      "duration": "21",
+      "progress": 0,
+      "open": true,
+      "parent": "7808",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7810",
+      "text": "拆除第二道钢筋混凝土支撑",
+      "start_date": "30-09-2020 08:00",
+      "duration": "14",
+      "progress": 0,
+      "open": true,
+      "parent": "7808",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7811",
+      "text": "中板及负二层侧墙（两个作业面、7天一段）",
+      "start_date": "02-10-2020 08:00",
+      "duration": "21",
+      "progress": 0,
+      "open": true,
+      "parent": "7808",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7812",
+      "text": "拆除第一道钢筋混凝土支撑",
+      "start_date": "16-10-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7808",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7813",
+      "text": "顶板及负一层侧墙（两个作业面、7天一段）",
+      "start_date": "10-11-2020 08:00",
+      "duration": "21",
+      "progress": 0,
+      "open": true,
+      "parent": "7808",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7814",
+      "text": "地上结构",
+      "start_date": "14-12-2020 08:00",
+      "duration": "320",
+      "progress": 0,
+      "open": true,
+      "parent": "7795",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7815",
+      "text": "裙房及交通枢纽配套用房结构（18层）",
+      "start_date": "14-12-2020 08:00",
+      "duration": "200",
+      "progress": 0,
+      "open": true,
+      "parent": "7814",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7816",
+      "text": "裙房及交通枢纽配套用房装饰装修",
+      "start_date": "02-07-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "7814",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7817",
+      "text": "A区、B区库房工程",
+      "start_date": "16-07-2020 08:00",
+      "duration": "180",
+      "progress": 0,
+      "open": true,
+      "parent": "7787",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7818",
+      "text": "钻孔灌注桩（φ700、深度50m，853根）",
+      "start_date": "16-07-2020 08:00",
+      "duration": "47",
+      "progress": 0,
+      "open": true,
+      "parent": "7817",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7819",
+      "text": "phc桩（48m，1399根）",
+      "start_date": "26-07-2020 08:00",
+      "duration": "36",
+      "progress": 0,
+      "open": true,
+      "parent": "7817",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7820",
+      "text": "基础开挖及基础施工（开挖约3.7m，274个）",
+      "start_date": "15-08-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7817",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7821",
+      "text": "建筑结构（地上3层，20500平,10段）",
+      "start_date": "14-09-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "7817",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7822",
+      "text": "停车场线、出入场线一体化轨道板",
+      "start_date": "16-07-2020 08:00",
+      "duration": "209",
+      "progress": 0,
+      "open": true,
+      "parent": "7787",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7823",
+      "text": "停车线及出入场线PHC管桩施工（37m，1720根）",
+      "start_date": "16-07-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7822",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7824",
+      "text": "路基开挖、管桩填芯、变形缝处路基横梁、垫层施工",
+      "start_date": "24-10-2020 08:00",
+      "duration": "35",
+      "progress": 0,
+      "open": true,
+      "parent": "7822",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7825",
+      "text": "轨道侧向排水管道、机电型号预埋管道施工",
+      "start_date": "24-10-2020 08:00",
+      "duration": "35",
+      "progress": 0,
+      "open": true,
+      "parent": "7822",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7826",
+      "text": "一体化轨道板及铺轨施工",
+      "start_date": "30-10-2020 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7822",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7827",
+      "text": "轨道焊接、二次精调、应力放散及锁定",
+      "start_date": "19-11-2020 08:00",
+      "duration": "43",
+      "progress": 0,
+      "open": true,
+      "parent": "7822",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7828",
+      "text": "轨道柔性包裹材料施工",
+      "start_date": "09-12-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7822",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7829",
+      "text": "轨间排水及其余轨间工程施工",
+      "start_date": "01-01-2021 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7822",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7830",
+      "text": "场内道路及各类管道预埋",
+      "start_date": "30-10-2020 08:00",
+      "duration": "100",
+      "progress": 0,
+      "open": true,
+      "parent": "7787",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7831",
+      "text": "管道预埋、道路基层（宕渣、水稳、粗砂）",
+      "start_date": "30-10-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "7830",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7832",
+      "text": "混凝土面层",
+      "start_date": "29-11-2020 08:00",
+      "duration": "70",
+      "progress": 0,
+      "open": true,
+      "parent": "7830",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7833",
+      "text": "T1线后通段土建部分[安乐路站~嘉兴站（不含）]",
+      "start_date": "12-05-2020 08:00",
+      "duration": "380",
+      "progress": 0,
+      "open": true,
+      "parent": "4563",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7834",
+      "text": "一环四路合建部分土建、机电（中山东路 1.4km）",
+      "start_date": "18-12-2020 08:00",
+      "duration": "160",
+      "progress": 0,
+      "open": true,
+      "parent": "7833",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7835",
+      "text": "轨道测量控制点布设",
+      "start_date": "18-12-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7834",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7836",
+      "text": "站台工程",
+      "start_date": "25-12-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7834",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7837",
+      "text": "安乐路站结构施工",
+      "start_date": "25-12-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7836",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7838",
+      "text": "禾兴路站结构施工",
+      "start_date": "25-12-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7836",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7839",
+      "text": "瓶山站结构施工",
+      "start_date": "25-12-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7836",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7840",
+      "text": "轨道工程",
+      "start_date": "28-12-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "7834",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7841",
+      "text": "垫层及一体化轨道板施工",
+      "start_date": "28-12-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7840",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7842",
+      "text": "轨道焊接、钢轨防腐补涂",
+      "start_date": "27-01-2021 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7840",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7843",
+      "text": "应力放散锁定、二次精调",
+      "start_date": "08-03-2021 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7840",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7844",
+      "text": "机电安装",
+      "start_date": "18-12-2020 08:00",
+      "duration": "75",
+      "progress": 0,
+      "open": true,
+      "parent": "7834",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7845",
+      "text": "变电所施工",
+      "start_date": "18-12-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7844",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7846",
+      "text": "环网电缆穿缆",
+      "start_date": "12-01-2021 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7844",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7847",
+      "text": "充电装置、充电轨安装",
+      "start_date": "14-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7844",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7848",
+      "text": "杂散电流防护系统安装",
+      "start_date": "28-12-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7844",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7849",
+      "text": "弱电及信号系统安装",
+      "start_date": "12-01-2021 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7844",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7850",
+      "text": "轨间工程及市政路面",
+      "start_date": "28-03-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7834",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7851",
+      "text": "轨道包封",
+      "start_date": "28-03-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7850",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7852",
+      "text": "轨道排水施工",
+      "start_date": "28-03-2021 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7850",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7853",
+      "text": "轨间路面附属工程",
+      "start_date": "17-04-2021 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7850",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7854",
+      "text": "中山东路桥~明挖区间土建、机电（0.78km）",
+      "start_date": "12-05-2020 08:00",
+      "duration": "281",
+      "progress": 0,
+      "open": true,
+      "parent": "7833",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7855",
+      "text": "征地拆迁及管线搬迁",
+      "start_date": "12-05-2020 08:00",
+      "duration": "111",
+      "progress": 0,
+      "open": true,
+      "parent": "7854",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7856",
+      "text": "正线土建（PHC管桩、桥梁改造、市政排水）",
+      "start_date": "31-08-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "7854",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7857",
+      "text": "PHC管桩施工",
+      "start_date": "31-08-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7856",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7858",
+      "text": "市政排水施工",
+      "start_date": "20-09-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7856",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7859",
+      "text": "站台站结构施工",
+      "start_date": "20-09-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7856",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7860",
+      "text": "中山东路桥梁改造施工",
+      "start_date": "31-08-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "7856",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7861",
+      "text": "轨道工程",
+      "start_date": "20-09-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "7854",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7862",
+      "text": "垫层及一体化轨道板施工",
+      "start_date": "20-09-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7861",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7863",
+      "text": "轨道焊接、钢轨防腐补涂",
+      "start_date": "20-10-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7861",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7864",
+      "text": "应力放散锁定、二次精调",
+      "start_date": "29-11-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7861",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7865",
+      "text": "机电安装",
+      "start_date": "31-08-2020 08:00",
+      "duration": "85",
+      "progress": 0,
+      "open": true,
+      "parent": "7854",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7866",
+      "text": "变电所施工",
+      "start_date": "31-08-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7865",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7867",
+      "text": "环网电缆穿缆",
+      "start_date": "05-10-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7865",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7868",
+      "text": "充电装置、充电轨安装",
+      "start_date": "10-10-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7865",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7869",
+      "text": "杂散电流防护系统安装",
+      "start_date": "20-09-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7865",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7870",
+      "text": "弱电及信号系统安装",
+      "start_date": "05-10-2020 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7865",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7871",
+      "text": "轨间工程及市政路面",
+      "start_date": "19-12-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7854",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7872",
+      "text": "轨道包封",
+      "start_date": "19-12-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7871",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7873",
+      "text": "轨道排水施工",
+      "start_date": "19-12-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7871",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7874",
+      "text": "轨间路面附属工程",
+      "start_date": "08-01-2021 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7871",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7875",
+      "text": "北段明挖区间",
+      "start_date": "12-05-2020 08:00",
+      "duration": "354",
+      "progress": 0,
+      "open": true,
+      "parent": "7833",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7876",
+      "text": "征地拆迁、管线搬迁、桩位清障",
+      "start_date": "12-05-2020 08:00",
+      "duration": "111",
+      "progress": 0,
+      "open": true,
+      "parent": "7875",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7877",
+      "text": "国税钢天桥拆除",
+      "start_date": "08-06-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7875",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7878",
+      "text": "围护结构及土方开挖",
+      "start_date": "31-08-2020 08:00",
+      "duration": "129",
+      "progress": 0,
+      "open": true,
+      "parent": "7875",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7879",
+      "text": "围挡施工",
+      "start_date": "31-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7880",
+      "text": "河浜箱涵处理（围堰施工、清除河浜箱涵障碍物）",
+      "start_date": "10-09-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7881",
+      "text": "围护结构(钻孔灌注桩总计817根)",
+      "start_date": "30-09-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7882",
+      "text": "三轴搅拌桩止水帷幕（三轴搅拌桩（φ850@600）总计581幅)",
+      "start_date": "30-10-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7883",
+      "text": "三轴搅拌桩坑底加固",
+      "start_date": "09-12-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7884",
+      "text": "钻孔灌注桩和三轴搅拌桩检测",
+      "start_date": "16-12-2020 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7885",
+      "text": "第一道混凝土支撑（800*800）施工",
+      "start_date": "16-12-2020 08:00",
+      "duration": "15",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7886",
+      "text": "混凝土支撑养护",
+      "start_date": "31-12-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7887",
+      "text": "基坑降水",
+      "start_date": "16-12-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7878",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7888",
+      "text": "结构施工（分10段），对称进行施工",
+      "start_date": "07-01-2021 08:00",
+      "duration": "94",
+      "progress": 0,
+      "open": true,
+      "parent": "7875",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7889",
+      "text": "第一、十段结构",
+      "start_date": "07-01-2021 08:00",
+      "duration": "44",
+      "progress": 0,
+      "open": true,
+      "parent": "7888",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7890",
+      "text": "第一层土方开挖",
+      "start_date": "07-01-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7889",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7891",
+      "text": "第二道钢支撑架设（随挖随撑）",
+      "start_date": "09-01-2021 08:00",
+      "duration": "8",
+      "progress": 0,
+      "open": true,
+      "parent": "7889",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7892",
+      "text": "第二层土方开挖",
+      "start_date": "17-01-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7889",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7893",
+      "text": "第一、十段结构底板",
+      "start_date": "30-01-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7889",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7894",
+      "text": "第二道钢支撑拆除（换撑施工），随拆随换",
+      "start_date": "13-02-2021 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7889",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7895",
+      "text": "第一、十段满堂架搭设（侧墙钢筋同步施工）",
+      "start_date": "06-02-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7889",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7896",
+      "text": "第一、十段顶板施工",
+      "start_date": "13-02-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7889",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7897",
+      "text": "第二、九段结构",
+      "start_date": "27-01-2021 08:00",
+      "duration": "44",
+      "progress": 0,
+      "open": true,
+      "parent": "7888",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7898",
+      "text": "第一层土方开挖",
+      "start_date": "27-01-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7897",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7899",
+      "text": "第二道钢支撑架设（随挖随撑）",
+      "start_date": "29-01-2021 08:00",
+      "duration": "8",
+      "progress": 0,
+      "open": true,
+      "parent": "7897",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7900",
+      "text": "第二层土方开挖",
+      "start_date": "06-02-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7897",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7901",
+      "text": "第二、九段结构底板施工",
+      "start_date": "09-02-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7897",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7902",
+      "text": "第二道钢支撑拆除（换撑施工），随拆随换",
+      "start_date": "23-02-2021 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7897",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7903",
+      "text": "第二、九段满堂架搭设（侧墙钢筋同步施工）",
+      "start_date": "26-02-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7897",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7904",
+      "text": "第二、九段顶板施工",
+      "start_date": "05-03-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7897",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7905",
+      "text": "第三、八段结构",
+      "start_date": "06-02-2021 08:00",
+      "duration": "44",
+      "progress": 0,
+      "open": true,
+      "parent": "7888",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7906",
+      "text": "第一层土方开挖",
+      "start_date": "06-02-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7905",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7907",
+      "text": "第二道钢支撑架设（随挖随撑）",
+      "start_date": "08-02-2021 08:00",
+      "duration": "8",
+      "progress": 0,
+      "open": true,
+      "parent": "7905",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7908",
+      "text": "第二层土方开挖",
+      "start_date": "16-02-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7905",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7909",
+      "text": "第三、八段结构底板施工",
+      "start_date": "19-02-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7905",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7910",
+      "text": "第二道钢支撑拆除（换撑施工），随拆随换",
+      "start_date": "05-03-2021 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7905",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7911",
+      "text": "第三、八段满堂架搭设（侧墙钢筋同步施工）",
+      "start_date": "08-03-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7905",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7912",
+      "text": "第三、八段顶板施工",
+      "start_date": "15-03-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7905",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7913",
+      "text": "第四、七段结构",
+      "start_date": "16-02-2021 08:00",
+      "duration": "44",
+      "progress": 0,
+      "open": true,
+      "parent": "7888",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7914",
+      "text": "第一层土方开挖",
+      "start_date": "16-02-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7913",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7915",
+      "text": "第二道钢支撑架设（随挖随撑）",
+      "start_date": "18-02-2021 08:00",
+      "duration": "8",
+      "progress": 0,
+      "open": true,
+      "parent": "7913",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7916",
+      "text": "第二层土方开挖",
+      "start_date": "26-02-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7913",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7917",
+      "text": "第四、七段结构底板施工",
+      "start_date": "01-03-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7913",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7918",
+      "text": "第二道钢支撑拆除（换撑施工），随拆随换",
+      "start_date": "15-03-2021 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7913",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7919",
+      "text": "第四、七段满堂架搭设（侧墙钢筋同步施工）",
+      "start_date": "18-03-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7913",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7920",
+      "text": "第四、七段顶板施工",
+      "start_date": "25-03-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7913",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7921",
+      "text": "第五、六段结构",
+      "start_date": "26-02-2021 08:00",
+      "duration": "44",
+      "progress": 0,
+      "open": true,
+      "parent": "7888",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7922",
+      "text": "第一层土方开挖",
+      "start_date": "26-02-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7921",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7923",
+      "text": "第二道钢支撑架设（随挖随撑）",
+      "start_date": "28-02-2021 08:00",
+      "duration": "8",
+      "progress": 0,
+      "open": true,
+      "parent": "7921",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7924",
+      "text": "第二层土方开挖",
+      "start_date": "08-03-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7921",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7925",
+      "text": "第五、六段结构底板施工",
+      "start_date": "11-03-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7921",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7926",
+      "text": "第二道钢支撑拆除（换撑施工），随拆随换",
+      "start_date": "25-03-2021 08:00",
+      "duration": "3",
+      "progress": 0,
+      "open": true,
+      "parent": "7921",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7927",
+      "text": "第五、六段满堂架搭设（侧墙钢筋同步施工）",
+      "start_date": "28-03-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7921",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7928",
+      "text": "第五、六段顶板施工",
+      "start_date": "04-04-2021 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7921",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7929",
+      "text": "市政路面恢复",
+      "start_date": "11-04-2021 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7875",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7930",
+      "text": "南侧明挖区间施工",
+      "start_date": "12-05-2020 08:00",
+      "duration": "304",
+      "progress": 0,
+      "open": true,
+      "parent": "7833",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7931",
+      "text": "前期管线搬迁或处理",
+      "start_date": "12-05-2020 08:00",
+      "duration": "111",
+      "progress": 0,
+      "open": true,
+      "parent": "7930",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7932",
+      "text": "围护结构及土方开挖",
+      "start_date": "31-08-2020 08:00",
+      "duration": "109",
+      "progress": 0,
+      "open": true,
+      "parent": "7930",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7933",
+      "text": "围挡施工",
+      "start_date": "31-08-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7934",
+      "text": "钻孔灌注桩施工(总计381根)",
+      "start_date": "10-09-2020 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7935",
+      "text": "三轴搅拌桩止水帷幕（三轴搅拌桩总计379幅)",
+      "start_date": "20-09-2020 08:00",
+      "duration": "45",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7936",
+      "text": "第一道混凝土支撑（800*800）施工",
+      "start_date": "30-09-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7937",
+      "text": "混凝土支撑养护",
+      "start_date": "09-11-2020 08:00",
+      "duration": "7",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7938",
+      "text": "基坑降水",
+      "start_date": "30-09-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7939",
+      "text": "第一层土方开挖",
+      "start_date": "16-11-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7940",
+      "text": "第二道钢支撑架设（随挖随撑）",
+      "start_date": "18-11-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7941",
+      "text": "第二层土方开挖",
+      "start_date": "18-11-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7932",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7942",
+      "text": "暗埋段（分3段）",
+      "start_date": "25-11-2020 08:00",
+      "duration": "44",
+      "progress": 0,
+      "open": true,
+      "parent": "7930",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7943",
+      "text": "第一段结构底板",
+      "start_date": "25-11-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7944",
+      "text": "钢支撑拆除（换撑施工），随拆随换",
+      "start_date": "10-12-2020 08:00",
+      "duration": "2",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7945",
+      "text": "第一段满堂架搭设",
+      "start_date": "12-12-2020 08:00",
+      "duration": "5",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7946",
+      "text": "第一段顶板施工",
+      "start_date": "17-12-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7947",
+      "text": "第二段结构底板",
+      "start_date": "30-11-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7948",
+      "text": "钢支撑拆除（换撑施工），随拆随换",
+      "start_date": "15-12-2020 08:00",
+      "duration": "2",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7949",
+      "text": "第二段满堂架搭设",
+      "start_date": "17-12-2020 08:00",
+      "duration": "5",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7950",
+      "text": "第二段顶板施工",
+      "start_date": "22-12-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7951",
+      "text": "第三段结构底板",
+      "start_date": "07-12-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7952",
+      "text": "钢支撑拆除（换撑施工），随拆随换",
+      "start_date": "22-12-2020 08:00",
+      "duration": "2",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7953",
+      "text": "第三段满堂架搭设",
+      "start_date": "24-12-2020 08:00",
+      "duration": "5",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7954",
+      "text": "第三段顶板施工",
+      "start_date": "29-12-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7942",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7955",
+      "text": "敞开段（6段、含无支撑段）",
+      "start_date": "08-12-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7930",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7956",
+      "text": "结构底板施工",
+      "start_date": "08-12-2020 08:00",
+      "duration": "36",
+      "progress": 0,
+      "open": true,
+      "parent": "7955",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7957",
+      "text": "第二道钢支撑拆除",
+      "start_date": "22-12-2020 08:00",
+      "duration": "36",
+      "progress": 0,
+      "open": true,
+      "parent": "7955",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7958",
+      "text": "支架架搭设",
+      "start_date": "23-12-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7955",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7959",
+      "text": "侧墙施工",
+      "start_date": "28-12-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7955",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7960",
+      "text": "顶板防水、路面恢复",
+      "start_date": "20-02-2021 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7930",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7961",
+      "text": "T2线土建部分（1.8km）",
+      "start_date": "01-07-2020 08:00",
+      "duration": "205",
+      "progress": 0,
+      "open": true,
+      "parent": "4563",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7962",
+      "text": "施工围挡封闭",
+      "start_date": "01-07-2020 08:00",
+      "duration": "5",
+      "progress": 0,
+      "open": true,
+      "parent": "7961",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7963",
+      "text": "正线土建（PHC管桩、桥梁改造、市政排水）",
+      "start_date": "06-07-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "7961",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7964",
+      "text": "PHC管桩施工",
+      "start_date": "06-07-2020 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7963",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7965",
+      "text": "市政排水施工",
+      "start_date": "25-08-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7963",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7966",
+      "text": "站台站结构施工",
+      "start_date": "25-08-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7963",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7967",
+      "text": "北丽桥桥梁改造施工",
+      "start_date": "06-07-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "7963",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7968",
+      "text": "轨道工程",
+      "start_date": "25-08-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "7961",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7969",
+      "text": "垫层及一体化轨道板施工",
+      "start_date": "25-08-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7968",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7970",
+      "text": "轨道焊接、钢轨防腐补涂",
+      "start_date": "24-09-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7968",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7971",
+      "text": "应力放散锁定、二次精调",
+      "start_date": "03-11-2020 08:00",
+      "duration": "20",
+      "progress": 0,
+      "open": true,
+      "parent": "7968",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7972",
+      "text": "机电安装",
+      "start_date": "06-07-2020 08:00",
+      "duration": "160",
+      "progress": 0,
+      "open": true,
+      "parent": "7961",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7973",
+      "text": "变电所施工",
+      "start_date": "06-07-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7972",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7974",
+      "text": "环网电缆穿缆",
+      "start_date": "24-10-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "7972",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7975",
+      "text": "充电装置、充电轨安装",
+      "start_date": "24-09-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7972",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7976",
+      "text": "杂散电流防护系统安装",
+      "start_date": "25-08-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7972",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7977",
+      "text": "弱电及信号系统安装",
+      "start_date": "24-10-2020 08:00",
+      "duration": "50",
+      "progress": 0,
+      "open": true,
+      "parent": "7972",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7978",
+      "text": "轨间工程及市政路面",
+      "start_date": "23-11-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "7961",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7979",
+      "text": "轨道包封",
+      "start_date": "23-11-2020 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "7978",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7980",
+      "text": "轨道排水施工",
+      "start_date": "23-11-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7978",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7981",
+      "text": "轨间路面附属工程",
+      "start_date": "13-12-2020 08:00",
+      "duration": "40",
+      "progress": 0,
+      "open": true,
+      "parent": "7978",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "7982",
+      "text": "机电工程",
+      "start_date": "01-05-2020 08:00",
+      "duration": "605",
+      "progress": 0,
+      "open": true,
+      "parent": "4563",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8015",
+      "text": "供配电（含动照）系统",
+      "start_date": "01-05-2020 08:00",
+      "duration": "600",
+      "progress": 0,
+      "open": true,
+      "parent": "7982",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8016",
+      "text": "前期工作",
+      "start_date": "01-05-2020 08:00",
+      "duration": "150",
+      "progress": 0,
+      "open": true,
+      "parent": "8015",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8017",
+      "text": "协调业主、设计确定牵引变电所位置。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8016",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8018",
+      "text": "设计联络，完成设备、材料定型等技术工作",
+      "start_date": "31-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8016",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8019",
+      "text": "设备预埋、预留，路由等与土建单位接口协调工作",
+      "start_date": "30-06-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8016",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8020",
+      "text": "供配电施工专项方案编制。",
+      "start_date": "30-06-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8016",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8021",
+      "text": "T1线（嘉兴南站~嘉兴站、停车场）",
+      "start_date": "30-06-2020 08:00",
+      "duration": "360",
+      "progress": 0,
+      "open": true,
+      "parent": "8015",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8022",
+      "text": "设备生产质量检查。",
+      "start_date": "30-06-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8023",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "29-08-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8024",
+      "text": "牵引变电所施工进度、现场安装协调，电通。",
+      "start_date": "29-08-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8025",
+      "text": "充电轨安装、电通",
+      "start_date": "28-10-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8026",
+      "text": "供配电系统单体调试、联调联试",
+      "start_date": "27-12-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8027",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "27-11-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8028",
+      "text": "质量验收",
+      "start_date": "26-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8029",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8030",
+      "text": "供配电系统联调联试、试运行配合工作。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8031",
+      "text": "竣工验收",
+      "start_date": "26-05-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8021",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8032",
+      "text": "全部工程",
+      "start_date": "27-11-2020 08:00",
+      "duration": "390",
+      "progress": 0,
+      "open": true,
+      "parent": "8015",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8033",
+      "text": "设备生产质量检查。",
+      "start_date": "27-11-2020 08:00",
+      "duration": "150",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8034",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8035",
+      "text": "牵引变电所、车站充电设备现场安装。",
+      "start_date": "26-04-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8036",
+      "text": "供配电系统单体调试",
+      "start_date": "25-07-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8037",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "26-05-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8038",
+      "text": "质量验收",
+      "start_date": "24-08-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8039",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "25-07-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8040",
+      "text": "供配电系统联调联试、试运行配合工作。",
+      "start_date": "23-09-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8041",
+      "text": "竣工验收",
+      "start_date": "22-11-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8032",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8042",
+      "text": "工艺设备",
+      "start_date": "01-05-2020 08:00",
+      "duration": "420",
+      "progress": 0,
+      "open": true,
+      "parent": "7982",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8043",
+      "text": "前期工作",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8042",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8044",
+      "text": "供方合同谈判及签订。（除不落轮镟床）",
+      "start_date": "01-05-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8043",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8045",
+      "text": "设计联络阶段，完成设备、材料定型等技术工作",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8043",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8046",
+      "text": "不落轮镟床供方确定。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8043",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8047",
+      "text": "工艺设备安装专项方案编制。",
+      "start_date": "31-05-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8043",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8048",
+      "text": "停车场",
+      "start_date": "30-06-2020 08:00",
+      "duration": "360",
+      "progress": 0,
+      "open": true,
+      "parent": "8042",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8049",
+      "text": "设备厂内生产制造。",
+      "start_date": "30-06-2020 08:00",
+      "duration": "180",
+      "progress": 0,
+      "open": true,
+      "parent": "8048",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8050",
+      "text": "设备监造及出厂验收",
+      "start_date": "28-09-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8048",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8051",
+      "text": "现场土建基础检查；各预留、预埋检查，确保准确。",
+      "start_date": "28-09-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8048",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8052",
+      "text": "设备进场安装及空载调试。",
+      "start_date": "28-10-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8048",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8053",
+      "text": "设备带负荷调试及试运转；资料整理及报审。",
+      "start_date": "27-12-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8048",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8054",
+      "text": "设备质量预验收。",
+      "start_date": "26-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8048",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8055",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "26-01-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8048",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8056",
+      "text": "车辆基地项目整体竣工验收配合。",
+      "start_date": "26-05-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8048",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8057",
+      "text": "消防、排水系统",
+      "start_date": "01-01-2021 08:00",
+      "duration": "360",
+      "progress": 0,
+      "open": true,
+      "parent": "7982",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8058",
+      "text": "前期工作",
+      "start_date": "02-03-2021 08:00",
+      "duration": "150",
+      "progress": 0,
+      "open": true,
+      "parent": "8057",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8059",
+      "text": "技术规格书确定，供方确定",
+      "start_date": "01-05-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8058",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8060",
+      "text": "合同谈判，签订设备供应合同。",
+      "start_date": "31-05-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8058",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8061",
+      "text": "设计联络，完成设备、材料定型等技术工作。",
+      "start_date": "02-03-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8058",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8062",
+      "text": "给排水、消防系统安装专项方案编制。",
+      "start_date": "01-04-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8058",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8063",
+      "text": "T1线（嘉兴南站~嘉兴站、停车场）",
+      "start_date": "02-03-2021 08:00",
+      "duration": "300",
+      "progress": 0,
+      "open": true,
+      "parent": "8057",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8064",
+      "text": "设备生产质量检查。",
+      "start_date": "02-03-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8065",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "01-04-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8066",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "01-05-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8067",
+      "text": "设备单体调试",
+      "start_date": "30-06-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8068",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "31-05-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8069",
+      "text": "质量验收（消防系统第三方检测）",
+      "start_date": "30-06-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8070",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "30-06-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8071",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "29-08-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8072",
+      "text": "竣工验收（消防系统专项验收）",
+      "start_date": "28-10-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8063",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8073",
+      "text": "全部工程",
+      "start_date": "01-01-2021 08:00",
+      "duration": "300",
+      "progress": 0,
+      "open": true,
+      "parent": "8057",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8074",
+      "text": "设备生产质量检查。",
+      "start_date": "01-01-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8075",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "31-01-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8076",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "01-05-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8077",
+      "text": "设备单体调试",
+      "start_date": "30-07-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8078",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "31-05-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8079",
+      "text": "质量验收（消防系统第三方检测）",
+      "start_date": "30-07-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8080",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "30-07-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8081",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "30-06-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8082",
+      "text": "竣工验收（消防系统专项验收）",
+      "start_date": "30-07-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8073",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8083",
+      "text": "暖通系统",
+      "start_date": "01-05-2020 08:00",
+      "duration": "570",
+      "progress": 0,
+      "open": true,
+      "parent": "7982",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8084",
+      "text": "前期工作",
+      "start_date": "01-05-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8083",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8085",
+      "text": "技术规格书确定，供方确定",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8084",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8086",
+      "text": "合同谈判，签订设备供应合同。",
+      "start_date": "31-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8084",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8087",
+      "text": "设计联络，完成设备、材料定型等技术工作。",
+      "start_date": "31-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8084",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8088",
+      "text": "暖通系统安装专项方案编制。",
+      "start_date": "30-06-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8084",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8089",
+      "text": "T1线（嘉兴南站~嘉兴站、停车场）",
+      "start_date": "30-07-2020 08:00",
+      "duration": "330",
+      "progress": 0,
+      "open": true,
+      "parent": "8083",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8090",
+      "text": "设备生产质量检查。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8091",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "28-10-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8092",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "27-11-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8093",
+      "text": "设备单体调试",
+      "start_date": "27-12-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8094",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "27-11-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8095",
+      "text": "质量验收",
+      "start_date": "26-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8096",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8097",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8098",
+      "text": "竣工验收",
+      "start_date": "26-05-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8089",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8099",
+      "text": "全部工程",
+      "start_date": "25-02-2021 08:00",
+      "duration": "270",
+      "progress": 0,
+      "open": true,
+      "parent": "8083",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8100",
+      "text": "设备生产质量检查。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8101",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "26-04-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8102",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "26-05-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8103",
+      "text": "设备单体调试",
+      "start_date": "25-07-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8104",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "26-05-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8105",
+      "text": "质量验收",
+      "start_date": "24-08-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8106",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "24-08-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8107",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "24-08-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8108",
+      "text": "竣工验收",
+      "start_date": "23-10-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8099",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8109",
+      "text": "电扶梯设备安装",
+      "start_date": "01-05-2020 08:00",
+      "duration": "600",
+      "progress": 0,
+      "open": true,
+      "parent": "7982",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8110",
+      "text": "前期工作",
+      "start_date": "01-05-2020 08:00",
+      "duration": "180",
+      "progress": 0,
+      "open": true,
+      "parent": "8109",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8111",
+      "text": "电扶梯技术规格、供方确定。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8110",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8112",
+      "text": "合同谈判，签订设备供应合同。",
+      "start_date": "31-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8110",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8113",
+      "text": "设计联络，完成设备、材料定型等技术工作。",
+      "start_date": "31-05-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8110",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8114",
+      "text": "电扶梯安装专项方案编制。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8110",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8115",
+      "text": "T1线（嘉兴南站~嘉兴站、停车场）",
+      "start_date": "28-09-2020 08:00",
+      "duration": "270",
+      "progress": 0,
+      "open": true,
+      "parent": "8109",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8116",
+      "text": "设备生产质量检查。",
+      "start_date": "28-09-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8117",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "27-11-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8118",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "26-01-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8119",
+      "text": "设备单体调试",
+      "start_date": "26-04-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8120",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "27-03-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8121",
+      "text": "质量验收（电梯特种设备第三方检测）",
+      "start_date": "26-04-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8122",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "27-03-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8123",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "27-03-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8124",
+      "text": "竣工验收",
+      "start_date": "26-05-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8115",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8125",
+      "text": "全部工程",
+      "start_date": "26-04-2021 08:00",
+      "duration": "240",
+      "progress": 0,
+      "open": true,
+      "parent": "8109",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8126",
+      "text": "设备生产质量检查。",
+      "start_date": "26-04-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8127",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "26-05-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8128",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "25-06-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8129",
+      "text": "设备单体调试",
+      "start_date": "23-09-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8130",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "25-07-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8131",
+      "text": "质量验收（电梯特种设备第三方检测）",
+      "start_date": "23-10-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8132",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "23-09-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8133",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "23-09-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8134",
+      "text": "竣工验收",
+      "start_date": "22-11-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8125",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8135",
+      "text": "智能交通",
+      "start_date": "01-05-2020 08:00",
+      "duration": "600",
+      "progress": 0,
+      "open": true,
+      "parent": "7982",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8136",
+      "text": "前期工作",
+      "start_date": "01-05-2020 08:00",
+      "duration": "180",
+      "progress": 0,
+      "open": true,
+      "parent": "8135",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8137",
+      "text": "与交警、设计协商，稳定智能交通技术方案、技术规格书。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8136",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8138",
+      "text": "工程量清单，包括材料和设备规格、数量清单确定。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8136",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8139",
+      "text": "招标文件编制、流转。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8136",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8140",
+      "text": "供方招标，供方确定。",
+      "start_date": "30-06-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8136",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8141",
+      "text": "合同谈判，签订设备供应合同。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8136",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8142",
+      "text": "设计联络，完成设备、材料定型等技术工作。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8136",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8143",
+      "text": "智能交通安装专项方案编制。",
+      "start_date": "29-08-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8136",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8144",
+      "text": "T1线（嘉兴南站~嘉兴站、停车场）",
+      "start_date": "28-09-2020 08:00",
+      "duration": "270",
+      "progress": 0,
+      "open": true,
+      "parent": "8135",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8145",
+      "text": "设备生产质量检查。",
+      "start_date": "28-09-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8146",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "28-10-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8147",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "27-11-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8148",
+      "text": "设备单体调试",
+      "start_date": "26-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8149",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "27-11-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8150",
+      "text": "质量验收",
+      "start_date": "26-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8151",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8152",
+      "text": "智能交通联调联试、试运行配合工作。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8153",
+      "text": "竣工验收",
+      "start_date": "26-05-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8144",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8154",
+      "text": "全部工程",
+      "start_date": "27-03-2021 08:00",
+      "duration": "270",
+      "progress": 0,
+      "open": true,
+      "parent": "8135",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8155",
+      "text": "设备生产质量检查。",
+      "start_date": "27-03-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8156",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "26-05-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8157",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "25-06-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8158",
+      "text": "设备单体调试",
+      "start_date": "24-08-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8159",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "25-07-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8160",
+      "text": "质量验收",
+      "start_date": "24-08-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8161",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "24-08-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8162",
+      "text": "智能交通联调联试、试运行配合工作。",
+      "start_date": "23-09-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8163",
+      "text": "竣工验收",
+      "start_date": "22-11-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8154",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8164",
+      "text": "运营控制系统（通信、信号、售检票、建筑智能化）",
+      "start_date": "01-05-2020 08:00",
+      "duration": "600",
+      "progress": 0,
+      "open": true,
+      "parent": "7982",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8165",
+      "text": "通信、信号、售检票系统",
+      "start_date": "01-05-2020 08:00",
+      "duration": "600",
+      "progress": 0,
+      "open": true,
+      "parent": "8164",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8166",
+      "text": "前期工作",
+      "start_date": "01-05-2020 08:00",
+      "duration": "150",
+      "progress": 0,
+      "open": true,
+      "parent": "8165",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8167",
+      "text": "与业主、票务管理部门、设计协商，稳定售检票方案。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8166",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8168",
+      "text": "工程量清单，包括材料和设备规格、数量清单确定。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8166",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8169",
+      "text": "招标文件编制、流转。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8166",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8170",
+      "text": "供方招标、确定供方。",
+      "start_date": "31-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8166",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8171",
+      "text": "合同谈判，签订设备供应合同。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8166",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8172",
+      "text": "设计联络，完成设备、材料定型等技术工作。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8166",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8173",
+      "text": "通信、信号、售检票安装专项方案编制。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8166",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8174",
+      "text": "T1线（嘉兴南站~嘉兴站、停车场）",
+      "start_date": "29-08-2020 08:00",
+      "duration": "300",
+      "progress": 0,
+      "open": true,
+      "parent": "8165",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8175",
+      "text": "设备生产质量检查。",
+      "start_date": "29-08-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8176",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "28-10-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8177",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "27-11-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8178",
+      "text": "设备单体调试、联调联试",
+      "start_date": "26-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8179",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "27-11-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8180",
+      "text": "质量验收（含OCC）",
+      "start_date": "26-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8181",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "26-01-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8182",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8183",
+      "text": "竣工验收",
+      "start_date": "26-05-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8174",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8184",
+      "text": "全部工程",
+      "start_date": "27-12-2020 08:00",
+      "duration": "360",
+      "progress": 0,
+      "open": true,
+      "parent": "8165",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8185",
+      "text": "设备生产质量检查。",
+      "start_date": "27-12-2020 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8186",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8187",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "27-03-2021 08:00",
+      "duration": "150",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8188",
+      "text": "设备单体调试",
+      "start_date": "25-07-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8189",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "26-05-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8190",
+      "text": "质量验收",
+      "start_date": "24-08-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8191",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "24-08-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8192",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "23-09-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8193",
+      "text": "竣工验收",
+      "start_date": "22-11-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8184",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8194",
+      "text": "建筑智能化系统",
+      "start_date": "01-05-2020 08:00",
+      "duration": "600",
+      "progress": 0,
+      "open": true,
+      "parent": "8164",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8195",
+      "text": "前期工作",
+      "start_date": "01-05-2020 08:00",
+      "duration": "150",
+      "progress": 0,
+      "open": true,
+      "parent": "8194",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8196",
+      "text": "与业主、设计协商，稳定方案、技术规格书。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8195",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8197",
+      "text": "工程量清单，包括材料和设备规格、数量清单确定。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8195",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8198",
+      "text": "招标文件编制、流转。",
+      "start_date": "01-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8195",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8199",
+      "text": "供方招标。",
+      "start_date": "31-05-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8195",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8200",
+      "text": "合同谈判，签订设备供应合同。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8195",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8201",
+      "text": "设计联络，完成设备、材料定型等技术工作。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8195",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8202",
+      "text": "建筑智能化安装专项方案编制。",
+      "start_date": "30-07-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8195",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8203",
+      "text": "OCC建筑",
+      "start_date": "28-09-2020 08:00",
+      "duration": "270",
+      "progress": 0,
+      "open": true,
+      "parent": "8194",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8204",
+      "text": "设备生产质量检查。",
+      "start_date": "28-09-2020 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8205",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "27-11-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8206",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "27-11-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8207",
+      "text": "设备单体调试",
+      "start_date": "27-12-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8208",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "27-12-2020 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8209",
+      "text": "质量验收",
+      "start_date": "26-01-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8210",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8211",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "25-02-2021 08:00",
+      "duration": "120",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8212",
+      "text": "竣工验收",
+      "start_date": "26-05-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8203",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8213",
+      "text": "其他建筑",
+      "start_date": "27-03-2021 08:00",
+      "duration": "270",
+      "progress": 0,
+      "open": true,
+      "parent": "8194",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8214",
+      "text": "设备生产质量检查。",
+      "start_date": "27-03-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8215",
+      "text": "路由、设备安装位预埋预留检查，确保准确。",
+      "start_date": "25-06-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8216",
+      "text": "设备制作进度、现场安装协调。",
+      "start_date": "26-05-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8217",
+      "text": "设备单体调试",
+      "start_date": "24-08-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8218",
+      "text": "相关材料、设备进场验收，质保资料收集",
+      "start_date": "25-07-2021 08:00",
+      "duration": "60",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8219",
+      "text": "质量验收",
+      "start_date": "24-08-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8220",
+      "text": "运营维护单位培训、技术服务。",
+      "start_date": "24-08-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8221",
+      "text": "设备联调联试、试运行配合工作。",
+      "start_date": "23-09-2021 08:00",
+      "duration": "90",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8222",
+      "text": "竣工验收",
+      "start_date": "22-11-2021 08:00",
+      "duration": "30",
+      "progress": 0,
+      "open": true,
+      "parent": "8213",
+      "$custom_data": null,
+      "resource": []
+    },
+    {
+      "id": "8432",
+      "text": "整体竣工验收",
+      "start_date": "22-12-2021 08:00",
+      "duration": "10",
+      "progress": 0,
+      "open": true,
+      "parent": "4563",
+      "$custom_data": null,
+      "resource": []
+    }
+  ],
+  "links": [
+    { "id": "1", "source": "7638", "target": "7639", "type": "1", "lag": "0" },
+    { "id": "2", "source": "7638", "target": "7640", "type": "1", "lag": "6" },
+    { "id": "3", "source": "7642", "target": "7643", "type": "1", "lag": "0" },
+    { "id": "4", "source": "7642", "target": "7644", "type": "1", "lag": "6" },
+    { "id": "5", "source": "7644", "target": "8433", "type": "0", "lag": "0" },
+    { "id": "6", "source": "8433", "target": "7645", "type": "1", "lag": "10" },
+    {
+      "id": "7",
+      "source": "8433",
+      "target": "7708",
+      "type": "0",
+      "lag": "-10"
+    },
+    { "id": "8", "source": "7648", "target": "7649", "type": "0", "lag": "0" },
+    { "id": "9", "source": "7649", "target": "7650", "type": "0", "lag": "0" },
+    { "id": "10", "source": "7650", "target": "7651", "type": "0", "lag": "0" },
+    { "id": "11", "source": "7651", "target": "7652", "type": "0", "lag": "7" },
+    { "id": "12", "source": "7652", "target": "7653", "type": "0", "lag": "7" },
+    { "id": "13", "source": "7652", "target": "7654", "type": "0", "lag": "7" },
+    { "id": "14", "source": "7656", "target": "7657", "type": "0", "lag": "0" },
+    { "id": "15", "source": "7657", "target": "7658", "type": "0", "lag": "0" },
+    { "id": "16", "source": "7658", "target": "7659", "type": "0", "lag": "0" },
+    { "id": "17", "source": "7659", "target": "7660", "type": "0", "lag": "7" },
+    { "id": "18", "source": "7659", "target": "7661", "type": "0", "lag": "7" },
+    { "id": "19", "source": "7663", "target": "7664", "type": "0", "lag": "0" },
+    { "id": "20", "source": "7664", "target": "7665", "type": "0", "lag": "0" },
+    { "id": "21", "source": "7665", "target": "7666", "type": "0", "lag": "0" },
+    { "id": "22", "source": "7666", "target": "7667", "type": "0", "lag": "3" },
+    { "id": "23", "source": "7667", "target": "7668", "type": "0", "lag": "7" },
+    { "id": "24", "source": "7668", "target": "7669", "type": "0", "lag": "7" },
+    { "id": "25", "source": "7668", "target": "7670", "type": "0", "lag": "7" },
+    { "id": "26", "source": "7672", "target": "7673", "type": "0", "lag": "0" },
+    { "id": "27", "source": "7673", "target": "7674", "type": "0", "lag": "7" },
+    { "id": "28", "source": "7674", "target": "7675", "type": "0", "lag": "7" },
+    { "id": "29", "source": "7674", "target": "7676", "type": "0", "lag": "7" },
+    { "id": "30", "source": "7678", "target": "7679", "type": "0", "lag": "0" },
+    { "id": "31", "source": "7679", "target": "7680", "type": "0", "lag": "7" },
+    { "id": "32", "source": "7680", "target": "7681", "type": "0", "lag": "7" },
+    { "id": "33", "source": "7680", "target": "7682", "type": "0", "lag": "7" },
+    { "id": "34", "source": "7684", "target": "7685", "type": "0", "lag": "0" },
+    { "id": "35", "source": "7685", "target": "7686", "type": "0", "lag": "0" },
+    { "id": "36", "source": "7686", "target": "7687", "type": "0", "lag": "7" },
+    { "id": "37", "source": "7687", "target": "7688", "type": "0", "lag": "3" },
+    { "id": "38", "source": "7688", "target": "7689", "type": "0", "lag": "7" },
+    { "id": "39", "source": "7689", "target": "7690", "type": "0", "lag": "7" },
+    { "id": "40", "source": "7689", "target": "7691", "type": "0", "lag": "7" },
+    { "id": "41", "source": "8446", "target": "8447", "type": "0", "lag": "0" },
+    { "id": "42", "source": "8447", "target": "8448", "type": "0", "lag": "0" },
+    { "id": "43", "source": "8448", "target": "8449", "type": "0", "lag": "0" },
+    { "id": "44", "source": "8449", "target": "8450", "type": "0", "lag": "7" },
+    { "id": "45", "source": "8449", "target": "8451", "type": "0", "lag": "7" },
+    { "id": "46", "source": "7693", "target": "7694", "type": "0", "lag": "1" },
+    { "id": "47", "source": "7694", "target": "7695", "type": "0", "lag": "0" },
+    { "id": "48", "source": "7695", "target": "7696", "type": "0", "lag": "0" },
+    { "id": "49", "source": "7696", "target": "7698", "type": "0", "lag": "7" },
+    { "id": "50", "source": "7696", "target": "7697", "type": "0", "lag": "0" },
+    { "id": "51", "source": "7698", "target": "7699", "type": "0", "lag": "0" },
+    { "id": "52", "source": "7701", "target": "7702", "type": "0", "lag": "0" },
+    { "id": "53", "source": "7702", "target": "7703", "type": "0", "lag": "0" },
+    { "id": "54", "source": "7703", "target": "7704", "type": "1", "lag": "0" },
+    { "id": "55", "source": "7704", "target": "7705", "type": "0", "lag": "0" },
+    { "id": "56", "source": "7705", "target": "7706", "type": "0", "lag": "0" },
+    { "id": "57", "source": "7706", "target": "7707", "type": "0", "lag": "0" },
+    { "id": "58", "source": "7710", "target": "8434", "type": "0", "lag": "0" },
+    { "id": "59", "source": "8434", "target": "7711", "type": "1", "lag": "7" },
+    { "id": "60", "source": "7711", "target": "7712", "type": "1", "lag": "6" },
+    {
+      "id": "61",
+      "source": "7712",
+      "target": "7713",
+      "type": "1",
+      "lag": "10"
+    },
+    {
+      "id": "62",
+      "source": "7712",
+      "target": "7733",
+      "type": "0",
+      "lag": "-20"
+    },
+    { "id": "63", "source": "7716", "target": "7717", "type": "0", "lag": "0" },
+    { "id": "64", "source": "7717", "target": "7718", "type": "0", "lag": "0" },
+    {
+      "id": "65",
+      "source": "7718",
+      "target": "7719",
+      "type": "0",
+      "lag": "15"
+    },
+    { "id": "66", "source": "7719", "target": "7720", "type": "0", "lag": "3" },
+    { "id": "67", "source": "7720", "target": "7721", "type": "0", "lag": "7" },
+    { "id": "68", "source": "7721", "target": "7722", "type": "0", "lag": "7" },
+    {
+      "id": "69",
+      "source": "7722",
+      "target": "7723",
+      "type": "0",
+      "lag": "14"
+    },
+    { "id": "70", "source": "7725", "target": "7726", "type": "0", "lag": "0" },
+    { "id": "71", "source": "7726", "target": "7727", "type": "0", "lag": "0" },
+    { "id": "72", "source": "7727", "target": "7728", "type": "0", "lag": "3" },
+    { "id": "73", "source": "7728", "target": "7729", "type": "0", "lag": "3" },
+    { "id": "74", "source": "7729", "target": "7730", "type": "0", "lag": "7" },
+    {
+      "id": "75",
+      "source": "7730",
+      "target": "7731",
+      "type": "0",
+      "lag": "14"
+    },
+    {
+      "id": "76",
+      "source": "7730",
+      "target": "7732",
+      "type": "0",
+      "lag": "14"
+    },
+    { "id": "77", "source": "7735", "target": "7736", "type": "1", "lag": "7" },
+    {
+      "id": "78",
+      "source": "7736",
+      "target": "7737",
+      "type": "1",
+      "lag": "30"
+    },
+    { "id": "79", "source": "7737", "target": "8435", "type": "0", "lag": "0" },
+    {
+      "id": "80",
+      "source": "8435",
+      "target": "7738",
+      "type": "1",
+      "lag": "10"
+    },
+    {
+      "id": "81",
+      "source": "8435",
+      "target": "7776",
+      "type": "0",
+      "lag": "-15"
+    },
+    { "id": "82", "source": "7741", "target": "7742", "type": "0", "lag": "0" },
+    { "id": "83", "source": "7742", "target": "7743", "type": "0", "lag": "0" },
+    { "id": "84", "source": "7743", "target": "7744", "type": "0", "lag": "7" },
+    { "id": "85", "source": "7744", "target": "7745", "type": "0", "lag": "3" },
+    { "id": "86", "source": "7745", "target": "7746", "type": "0", "lag": "7" },
+    {
+      "id": "87",
+      "source": "7746",
+      "target": "7747",
+      "type": "0",
+      "lag": "14"
+    },
+    {
+      "id": "88",
+      "source": "7746",
+      "target": "7748",
+      "type": "0",
+      "lag": "14"
+    },
+    { "id": "89", "source": "7750", "target": "7751", "type": "0", "lag": "0" },
+    { "id": "90", "source": "7751", "target": "7752", "type": "0", "lag": "0" },
+    { "id": "91", "source": "7752", "target": "7753", "type": "0", "lag": "7" },
+    { "id": "92", "source": "7753", "target": "7754", "type": "0", "lag": "3" },
+    { "id": "93", "source": "7754", "target": "7755", "type": "0", "lag": "7" },
+    {
+      "id": "94",
+      "source": "7755",
+      "target": "7756",
+      "type": "0",
+      "lag": "14"
+    },
+    { "id": "95", "source": "7756", "target": "7757", "type": "0", "lag": "0" },
+    { "id": "96", "source": "7759", "target": "7760", "type": "0", "lag": "0" },
+    { "id": "97", "source": "7760", "target": "7761", "type": "0", "lag": "0" },
+    { "id": "98", "source": "7761", "target": "7762", "type": "0", "lag": "7" },
+    { "id": "99", "source": "7762", "target": "7763", "type": "0", "lag": "3" },
+    {
+      "id": "100",
+      "source": "7763",
+      "target": "7764",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "101",
+      "source": "7764",
+      "target": "7765",
+      "type": "0",
+      "lag": "14"
+    },
+    {
+      "id": "102",
+      "source": "7764",
+      "target": "7766",
+      "type": "0",
+      "lag": "14"
+    },
+    {
+      "id": "103",
+      "source": "7768",
+      "target": "7769",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "104",
+      "source": "7769",
+      "target": "7770",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "105",
+      "source": "7770",
+      "target": "7771",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "106",
+      "source": "7771",
+      "target": "7772",
+      "type": "0",
+      "lag": "3"
+    },
+    {
+      "id": "107",
+      "source": "7772",
+      "target": "7773",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "108",
+      "source": "7773",
+      "target": "7774",
+      "type": "0",
+      "lag": "14"
+    },
+    {
+      "id": "109",
+      "source": "7773",
+      "target": "7775",
+      "type": "0",
+      "lag": "14"
+    },
+    {
+      "id": "110",
+      "source": "7779",
+      "target": "7780",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "111",
+      "source": "7781",
+      "target": "7782",
+      "type": "1",
+      "lag": "50"
+    },
+    {
+      "id": "112",
+      "source": "7782",
+      "target": "7783",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "113",
+      "source": "7782",
+      "target": "7784",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "114",
+      "source": "7788",
+      "target": "7797",
+      "type": "0",
+      "lag": "-15"
+    },
+    {
+      "id": "115",
+      "source": "7790",
+      "target": "7791",
+      "type": "1",
+      "lag": "15"
+    },
+    {
+      "id": "116",
+      "source": "7791",
+      "target": "7792",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "117",
+      "source": "7792",
+      "target": "7793",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "118",
+      "source": "7797",
+      "target": "7801",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "119",
+      "source": "7797",
+      "target": "7798",
+      "type": "1",
+      "lag": "10"
+    },
+    {
+      "id": "120",
+      "source": "7797",
+      "target": "7818",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "121",
+      "source": "7798",
+      "target": "7803",
+      "type": "1",
+      "lag": "15"
+    },
+    {
+      "id": "122",
+      "source": "7798",
+      "target": "7799",
+      "type": "1",
+      "lag": "10"
+    },
+    {
+      "id": "123",
+      "source": "7803",
+      "target": "7804",
+      "type": "1",
+      "lag": "3"
+    },
+    {
+      "id": "124",
+      "source": "7804",
+      "target": "7805",
+      "type": "1",
+      "lag": "14"
+    },
+    {
+      "id": "125",
+      "source": "7805",
+      "target": "7806",
+      "type": "1",
+      "lag": "3"
+    },
+    {
+      "id": "126",
+      "source": "7806",
+      "target": "7807",
+      "type": "1",
+      "lag": "14"
+    },
+    {
+      "id": "127",
+      "source": "7807",
+      "target": "7809",
+      "type": "1",
+      "lag": "3"
+    },
+    {
+      "id": "128",
+      "source": "7809",
+      "target": "7810",
+      "type": "1",
+      "lag": "14"
+    },
+    {
+      "id": "129",
+      "source": "7810",
+      "target": "7811",
+      "type": "1",
+      "lag": "2"
+    },
+    {
+      "id": "130",
+      "source": "7811",
+      "target": "7812",
+      "type": "1",
+      "lag": "14"
+    },
+    {
+      "id": "131",
+      "source": "7812",
+      "target": "7813",
+      "type": "0",
+      "lag": "5"
+    },
+    {
+      "id": "132",
+      "source": "7813",
+      "target": "7815",
+      "type": "0",
+      "lag": "13"
+    },
+    {
+      "id": "133",
+      "source": "7815",
+      "target": "7816",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "134",
+      "source": "7818",
+      "target": "7819",
+      "type": "1",
+      "lag": "10"
+    },
+    {
+      "id": "135",
+      "source": "7818",
+      "target": "7820",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "136",
+      "source": "7818",
+      "target": "7823",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "137",
+      "source": "7820",
+      "target": "7821",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "138",
+      "source": "7821",
+      "target": "7824",
+      "type": "1",
+      "lag": "40"
+    },
+    {
+      "id": "139",
+      "source": "7824",
+      "target": "7825",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "140",
+      "source": "7826",
+      "target": "7827",
+      "type": "1",
+      "lag": "20"
+    },
+    {
+      "id": "141",
+      "source": "7826",
+      "target": "7831",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "142",
+      "source": "7827",
+      "target": "7828",
+      "type": "1",
+      "lag": "20"
+    },
+    {
+      "id": "143",
+      "source": "7827",
+      "target": "7829",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "144",
+      "source": "7831",
+      "target": "7832",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "145",
+      "source": "7835",
+      "target": "7837",
+      "type": "1",
+      "lag": "7"
+    },
+    {
+      "id": "146",
+      "source": "7835",
+      "target": "7841",
+      "type": "1",
+      "lag": "10"
+    },
+    {
+      "id": "147",
+      "source": "7835",
+      "target": "7845",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "148",
+      "source": "7837",
+      "target": "7838",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "149",
+      "source": "7837",
+      "target": "7847",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "150",
+      "source": "7838",
+      "target": "7839",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "151",
+      "source": "7841",
+      "target": "7842",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "152",
+      "source": "7841",
+      "target": "7846",
+      "type": "1",
+      "lag": "15"
+    },
+    {
+      "id": "153",
+      "source": "7841",
+      "target": "7848",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "154",
+      "source": "7842",
+      "target": "7843",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "155",
+      "source": "7843",
+      "target": "7851",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "156",
+      "source": "7843",
+      "target": "7852",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "157",
+      "source": "7846",
+      "target": "7849",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "158",
+      "source": "7852",
+      "target": "7853",
+      "type": "1",
+      "lag": "20"
+    },
+    {
+      "id": "159",
+      "source": "7855",
+      "target": "7857",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "160",
+      "source": "7855",
+      "target": "7860",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "161",
+      "source": "7855",
+      "target": "7866",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "162",
+      "source": "7857",
+      "target": "7858",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "163",
+      "source": "7857",
+      "target": "7859",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "164",
+      "source": "7857",
+      "target": "7862",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "165",
+      "source": "7859",
+      "target": "7868",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "166",
+      "source": "7862",
+      "target": "7863",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "167",
+      "source": "7862",
+      "target": "7867",
+      "type": "1",
+      "lag": "15"
+    },
+    {
+      "id": "168",
+      "source": "7862",
+      "target": "7869",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "169",
+      "source": "7863",
+      "target": "7864",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "170",
+      "source": "7864",
+      "target": "7872",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "171",
+      "source": "7864",
+      "target": "7873",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "172",
+      "source": "7867",
+      "target": "7870",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "173",
+      "source": "7873",
+      "target": "7874",
+      "type": "1",
+      "lag": "20"
+    },
+    {
+      "id": "174",
+      "source": "7876",
+      "target": "7877",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "175",
+      "source": "7876",
+      "target": "7879",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "176",
+      "source": "7877",
+      "target": "7879",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "177",
+      "source": "7879",
+      "target": "7880",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "178",
+      "source": "7880",
+      "target": "7881",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "179",
+      "source": "7881",
+      "target": "7882",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "180",
+      "source": "7882",
+      "target": "7884",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "181",
+      "source": "7882",
+      "target": "7883",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "182",
+      "source": "7884",
+      "target": "7885",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "183",
+      "source": "7885",
+      "target": "7886",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "184",
+      "source": "7885",
+      "target": "7887",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "185",
+      "source": "7886",
+      "target": "7890",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "186",
+      "source": "7887",
+      "target": "7889",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "187",
+      "source": "7890",
+      "target": "7891",
+      "type": "1",
+      "lag": "2"
+    },
+    {
+      "id": "188",
+      "source": "7891",
+      "target": "7892",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "189",
+      "source": "7892",
+      "target": "7893",
+      "type": "0",
+      "lag": "3"
+    },
+    {
+      "id": "190",
+      "source": "7893",
+      "target": "7894",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "191",
+      "source": "7893",
+      "target": "7895",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "192",
+      "source": "7893",
+      "target": "7898",
+      "type": "1",
+      "lag": "-3"
+    },
+    {
+      "id": "193",
+      "source": "7895",
+      "target": "7896",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "194",
+      "source": "7898",
+      "target": "7899",
+      "type": "1",
+      "lag": "2"
+    },
+    {
+      "id": "195",
+      "source": "7899",
+      "target": "7900",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "196",
+      "source": "7900",
+      "target": "7901",
+      "type": "1",
+      "lag": "3"
+    },
+    {
+      "id": "197",
+      "source": "7901",
+      "target": "7902",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "198",
+      "source": "7901",
+      "target": "7906",
+      "type": "1",
+      "lag": "-3"
+    },
+    {
+      "id": "199",
+      "source": "7902",
+      "target": "7903",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "200",
+      "source": "7903",
+      "target": "7904",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "201",
+      "source": "7906",
+      "target": "7907",
+      "type": "1",
+      "lag": "2"
+    },
+    {
+      "id": "202",
+      "source": "7907",
+      "target": "7908",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "203",
+      "source": "7908",
+      "target": "7909",
+      "type": "1",
+      "lag": "3"
+    },
+    {
+      "id": "204",
+      "source": "7909",
+      "target": "7910",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "205",
+      "source": "7909",
+      "target": "7914",
+      "type": "1",
+      "lag": "-3"
+    },
+    {
+      "id": "206",
+      "source": "7910",
+      "target": "7911",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "207",
+      "source": "7911",
+      "target": "7912",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "208",
+      "source": "7914",
+      "target": "7915",
+      "type": "1",
+      "lag": "2"
+    },
+    {
+      "id": "209",
+      "source": "7915",
+      "target": "7916",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "210",
+      "source": "7916",
+      "target": "7917",
+      "type": "1",
+      "lag": "3"
+    },
+    {
+      "id": "211",
+      "source": "7917",
+      "target": "7918",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "212",
+      "source": "7917",
+      "target": "7922",
+      "type": "1",
+      "lag": "-3"
+    },
+    {
+      "id": "213",
+      "source": "7918",
+      "target": "7919",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "214",
+      "source": "7919",
+      "target": "7920",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "215",
+      "source": "7922",
+      "target": "7923",
+      "type": "1",
+      "lag": "2"
+    },
+    {
+      "id": "216",
+      "source": "7923",
+      "target": "7924",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "217",
+      "source": "7924",
+      "target": "7925",
+      "type": "1",
+      "lag": "3"
+    },
+    {
+      "id": "218",
+      "source": "7925",
+      "target": "7926",
+      "type": "0",
+      "lag": "7"
+    },
+    {
+      "id": "219",
+      "source": "7926",
+      "target": "7927",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "220",
+      "source": "7927",
+      "target": "7928",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "221",
+      "source": "7928",
+      "target": "7929",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "222",
+      "source": "7931",
+      "target": "7933",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "223",
+      "source": "7933",
+      "target": "7934",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "224",
+      "source": "7934",
+      "target": "7935",
+      "type": "1",
+      "lag": "10"
+    },
+    {
+      "id": "225",
+      "source": "7934",
+      "target": "7936",
+      "type": "1",
+      "lag": "20"
+    },
+    {
+      "id": "226",
+      "source": "7936",
+      "target": "7937",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "227",
+      "source": "7936",
+      "target": "7938",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "228",
+      "source": "7937",
+      "target": "7939",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "229",
+      "source": "7938",
+      "target": "7939",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "230",
+      "source": "7939",
+      "target": "7940",
+      "type": "1",
+      "lag": "2"
+    },
+    {
+      "id": "231",
+      "source": "7940",
+      "target": "7941",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "232",
+      "source": "7941",
+      "target": "7943",
+      "type": "1",
+      "lag": "7"
+    },
+    {
+      "id": "233",
+      "source": "7941",
+      "target": "7956",
+      "type": "1",
+      "lag": "20"
+    },
+    {
+      "id": "234",
+      "source": "7943",
+      "target": "7944",
+      "type": "2",
+      "lag": "7"
+    },
+    {
+      "id": "235",
+      "source": "7943",
+      "target": "7947",
+      "type": "1",
+      "lag": "5"
+    },
+    {
+      "id": "236",
+      "source": "7944",
+      "target": "7945",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "237",
+      "source": "7945",
+      "target": "7946",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "238",
+      "source": "7947",
+      "target": "7948",
+      "type": "2",
+      "lag": "7"
+    },
+    {
+      "id": "239",
+      "source": "7947",
+      "target": "7951",
+      "type": "1",
+      "lag": "7"
+    },
+    {
+      "id": "240",
+      "source": "7948",
+      "target": "7949",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "241",
+      "source": "7949",
+      "target": "7950",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "242",
+      "source": "7951",
+      "target": "7952",
+      "type": "2",
+      "lag": "7"
+    },
+    {
+      "id": "243",
+      "source": "7952",
+      "target": "7953",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "244",
+      "source": "7953",
+      "target": "7954",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "245",
+      "source": "7956",
+      "target": "7957",
+      "type": "1",
+      "lag": "14"
+    },
+    {
+      "id": "246",
+      "source": "7957",
+      "target": "7958",
+      "type": "1",
+      "lag": "1"
+    },
+    {
+      "id": "247",
+      "source": "7958",
+      "target": "7959",
+      "type": "1",
+      "lag": "5"
+    },
+    {
+      "id": "248",
+      "source": "7959",
+      "target": "7960",
+      "type": "0",
+      "lag": "14"
+    },
+    {
+      "id": "249",
+      "source": "7962",
+      "target": "7964",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "250",
+      "source": "7962",
+      "target": "7967",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "251",
+      "source": "7962",
+      "target": "7973",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "252",
+      "source": "7964",
+      "target": "7965",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "253",
+      "source": "7964",
+      "target": "7966",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "254",
+      "source": "7964",
+      "target": "7969",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "255",
+      "source": "7966",
+      "target": "7975",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "256",
+      "source": "7969",
+      "target": "7970",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "257",
+      "source": "7969",
+      "target": "7974",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "258",
+      "source": "7969",
+      "target": "7976",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "259",
+      "source": "7970",
+      "target": "7971",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "260",
+      "source": "7971",
+      "target": "7979",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "261",
+      "source": "7971",
+      "target": "7980",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "262",
+      "source": "7974",
+      "target": "7977",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "263",
+      "source": "7980",
+      "target": "7981",
+      "type": "1",
+      "lag": "20"
+    },
+    {
+      "id": "264",
+      "source": "8017",
+      "target": "8018",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "265",
+      "source": "8018",
+      "target": "8019",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "266",
+      "source": "8019",
+      "target": "8020",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "267",
+      "source": "8019",
+      "target": "8022",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "268",
+      "source": "8022",
+      "target": "8023",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "269",
+      "source": "8023",
+      "target": "8024",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "270",
+      "source": "8024",
+      "target": "8025",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "271",
+      "source": "8025",
+      "target": "8026",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "272",
+      "source": "8026",
+      "target": "8027",
+      "type": "1",
+      "lag": "-30"
+    },
+    {
+      "id": "273",
+      "source": "8027",
+      "target": "8028",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "274",
+      "source": "8027",
+      "target": "8033",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "275",
+      "source": "8028",
+      "target": "8029",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "276",
+      "source": "8029",
+      "target": "8030",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "277",
+      "source": "8030",
+      "target": "8031",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "278",
+      "source": "8030",
+      "target": "8034",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "279",
+      "source": "8034",
+      "target": "8035",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "280",
+      "source": "8035",
+      "target": "8036",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "281",
+      "source": "8035",
+      "target": "8037",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "282",
+      "source": "8037",
+      "target": "8038",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "283",
+      "source": "8037",
+      "target": "8039",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "284",
+      "source": "8039",
+      "target": "8040",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "285",
+      "source": "8040",
+      "target": "8041",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "286",
+      "source": "8041",
+      "target": "8432",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "287",
+      "source": "8044",
+      "target": "8045",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "288",
+      "source": "8045",
+      "target": "8046",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "289",
+      "source": "8046",
+      "target": "8047",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "290",
+      "source": "8047",
+      "target": "8049",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "291",
+      "source": "8049",
+      "target": "8050",
+      "type": "1",
+      "lag": "90"
+    },
+    {
+      "id": "292",
+      "source": "8050",
+      "target": "8051",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "293",
+      "source": "8051",
+      "target": "8052",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "294",
+      "source": "8052",
+      "target": "8053",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "295",
+      "source": "8053",
+      "target": "8054",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "296",
+      "source": "8054",
+      "target": "8055",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "297",
+      "source": "8055",
+      "target": "8056",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "298",
+      "source": "8059",
+      "target": "8060",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "299",
+      "source": "8059",
+      "target": "8064",
+      "type": "1",
+      "lag": "-60"
+    },
+    {
+      "id": "300",
+      "source": "8060",
+      "target": "8061",
+      "type": "3",
+      "lag": "-30"
+    },
+    {
+      "id": "301",
+      "source": "8061",
+      "target": "8062",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "302",
+      "source": "8063",
+      "target": "8074",
+      "type": "1",
+      "lag": "-60"
+    },
+    {
+      "id": "303",
+      "source": "8064",
+      "target": "8065",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "304",
+      "source": "8065",
+      "target": "8066",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "305",
+      "source": "8066",
+      "target": "8067",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "306",
+      "source": "8067",
+      "target": "8068",
+      "type": "1",
+      "lag": "-30"
+    },
+    {
+      "id": "307",
+      "source": "8068",
+      "target": "8069",
+      "type": "2",
+      "lag": "-30"
+    },
+    {
+      "id": "308",
+      "source": "8069",
+      "target": "8070",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "309",
+      "source": "8070",
+      "target": "8071",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "310",
+      "source": "8071",
+      "target": "8072",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "311",
+      "source": "8074",
+      "target": "8075",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "312",
+      "source": "8075",
+      "target": "8076",
+      "type": "0",
+      "lag": "30"
+    },
+    {
+      "id": "313",
+      "source": "8076",
+      "target": "8077",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "314",
+      "source": "8077",
+      "target": "8078",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "315",
+      "source": "8078",
+      "target": "8079",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "316",
+      "source": "8079",
+      "target": "8080",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "317",
+      "source": "8080",
+      "target": "8081",
+      "type": "1",
+      "lag": "-30"
+    },
+    {
+      "id": "318",
+      "source": "8081",
+      "target": "8082",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "319",
+      "source": "8085",
+      "target": "8086",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "320",
+      "source": "8086",
+      "target": "8087",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "321",
+      "source": "8087",
+      "target": "8088",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "322",
+      "source": "8088",
+      "target": "8090",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "323",
+      "source": "8090",
+      "target": "8091",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "324",
+      "source": "8091",
+      "target": "8092",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "325",
+      "source": "8092",
+      "target": "8093",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "326",
+      "source": "8093",
+      "target": "8094",
+      "type": "1",
+      "lag": "-30"
+    },
+    {
+      "id": "327",
+      "source": "8094",
+      "target": "8095",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "328",
+      "source": "8095",
+      "target": "8096",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "329",
+      "source": "8096",
+      "target": "8097",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "330",
+      "source": "8097",
+      "target": "8098",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "331",
+      "source": "8098",
+      "target": "8100",
+      "type": "3",
+      "lag": "0"
+    },
+    {
+      "id": "332",
+      "source": "8100",
+      "target": "8101",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "333",
+      "source": "8101",
+      "target": "8102",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "334",
+      "source": "8102",
+      "target": "8103",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "335",
+      "source": "8103",
+      "target": "8104",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "336",
+      "source": "8104",
+      "target": "8105",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "337",
+      "source": "8105",
+      "target": "8106",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "338",
+      "source": "8106",
+      "target": "8107",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "339",
+      "source": "8107",
+      "target": "8108",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "340",
+      "source": "8111",
+      "target": "8112",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "341",
+      "source": "8112",
+      "target": "8113",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "342",
+      "source": "8112",
+      "target": "8114",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "343",
+      "source": "8114",
+      "target": "8116",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "344",
+      "source": "8116",
+      "target": "8117",
+      "type": "0",
+      "lag": "-60"
+    },
+    {
+      "id": "345",
+      "source": "8117",
+      "target": "8118",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "346",
+      "source": "8118",
+      "target": "8119",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "347",
+      "source": "8119",
+      "target": "8120",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "348",
+      "source": "8120",
+      "target": "8121",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "349",
+      "source": "8121",
+      "target": "8122",
+      "type": "1",
+      "lag": "-30"
+    },
+    {
+      "id": "350",
+      "source": "8122",
+      "target": "8123",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "351",
+      "source": "8123",
+      "target": "8124",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "352",
+      "source": "8124",
+      "target": "8126",
+      "type": "1",
+      "lag": "-30"
+    },
+    {
+      "id": "353",
+      "source": "8126",
+      "target": "8127",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "354",
+      "source": "8127",
+      "target": "8128",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "355",
+      "source": "8128",
+      "target": "8129",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "356",
+      "source": "8129",
+      "target": "8130",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "357",
+      "source": "8130",
+      "target": "8131",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "358",
+      "source": "8131",
+      "target": "8132",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "359",
+      "source": "8132",
+      "target": "8133",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "360",
+      "source": "8133",
+      "target": "8134",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "361",
+      "source": "8137",
+      "target": "8138",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "362",
+      "source": "8138",
+      "target": "8139",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "363",
+      "source": "8139",
+      "target": "8140",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "364",
+      "source": "8140",
+      "target": "8141",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "365",
+      "source": "8141",
+      "target": "8142",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "366",
+      "source": "8142",
+      "target": "8143",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "367",
+      "source": "8143",
+      "target": "8145",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "368",
+      "source": "8145",
+      "target": "8146",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "369",
+      "source": "8146",
+      "target": "8147",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "370",
+      "source": "8147",
+      "target": "8148",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "371",
+      "source": "8148",
+      "target": "8149",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "372",
+      "source": "8149",
+      "target": "8150",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "373",
+      "source": "8150",
+      "target": "8151",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "374",
+      "source": "8151",
+      "target": "8152",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "375",
+      "source": "8152",
+      "target": "8153",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "376",
+      "source": "8153",
+      "target": "8155",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "377",
+      "source": "8155",
+      "target": "8156",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "378",
+      "source": "8156",
+      "target": "8157",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "379",
+      "source": "8157",
+      "target": "8158",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "380",
+      "source": "8158",
+      "target": "8159",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "381",
+      "source": "8159",
+      "target": "8160",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "382",
+      "source": "8160",
+      "target": "8161",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "383",
+      "source": "8161",
+      "target": "8162",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "384",
+      "source": "8162",
+      "target": "8163",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "385",
+      "source": "8167",
+      "target": "8168",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "386",
+      "source": "8167",
+      "target": "8196",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "387",
+      "source": "8168",
+      "target": "8169",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "388",
+      "source": "8169",
+      "target": "8170",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "389",
+      "source": "8170",
+      "target": "8171",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "390",
+      "source": "8171",
+      "target": "8172",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "391",
+      "source": "8172",
+      "target": "8173",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "392",
+      "source": "8173",
+      "target": "8175",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "393",
+      "source": "8175",
+      "target": "8176",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "394",
+      "source": "8176",
+      "target": "8177",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "395",
+      "source": "8177",
+      "target": "8178",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "396",
+      "source": "8178",
+      "target": "8179",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "397",
+      "source": "8179",
+      "target": "8180",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "398",
+      "source": "8180",
+      "target": "8181",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "399",
+      "source": "8181",
+      "target": "8182",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "400",
+      "source": "8181",
+      "target": "8185",
+      "type": "1",
+      "lag": "-30"
+    },
+    {
+      "id": "401",
+      "source": "8182",
+      "target": "8183",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "402",
+      "source": "8185",
+      "target": "8186",
+      "type": "1",
+      "lag": "60"
+    },
+    {
+      "id": "403",
+      "source": "8186",
+      "target": "8187",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "404",
+      "source": "8187",
+      "target": "8188",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "405",
+      "source": "8188",
+      "target": "8189",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "406",
+      "source": "8189",
+      "target": "8190",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "407",
+      "source": "8190",
+      "target": "8191",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "408",
+      "source": "8191",
+      "target": "8192",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "409",
+      "source": "8192",
+      "target": "8193",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "410",
+      "source": "8196",
+      "target": "8197",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "411",
+      "source": "8197",
+      "target": "8198",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "412",
+      "source": "8198",
+      "target": "8199",
+      "type": "1",
+      "lag": "30"
+    },
+    {
+      "id": "413",
+      "source": "8199",
+      "target": "8200",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "414",
+      "source": "8200",
+      "target": "8201",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "415",
+      "source": "8201",
+      "target": "8202",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "416",
+      "source": "8202",
+      "target": "8204",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "417",
+      "source": "8204",
+      "target": "8205",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "418",
+      "source": "8205",
+      "target": "8206",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "419",
+      "source": "8206",
+      "target": "8207",
+      "type": "0",
+      "lag": "-30"
+    },
+    {
+      "id": "420",
+      "source": "8207",
+      "target": "8208",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "421",
+      "source": "8208",
+      "target": "8209",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "422",
+      "source": "8209",
+      "target": "8210",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "423",
+      "source": "8210",
+      "target": "8211",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "424",
+      "source": "8211",
+      "target": "8212",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "425",
+      "source": "8212",
+      "target": "8214",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "426",
+      "source": "8214",
+      "target": "8215",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "427",
+      "source": "8215",
+      "target": "8216",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "428",
+      "source": "8216",
+      "target": "8217",
+      "type": "0",
+      "lag": "0"
+    },
+    {
+      "id": "429",
+      "source": "8217",
+      "target": "8218",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "430",
+      "source": "8218",
+      "target": "8219",
+      "type": "2",
+      "lag": "0"
+    },
+    {
+      "id": "431",
+      "source": "8219",
+      "target": "8220",
+      "type": "1",
+      "lag": "0"
+    },
+    {
+      "id": "432",
+      "source": "8220",
+      "target": "8221",
+      "type": "1",
+      "lag": "30"
+    },
+    { "id": "433", "source": "8221", "target": "8222", "type": "2", "lag": "0" }
+  ]
+}

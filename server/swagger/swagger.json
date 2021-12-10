@@ -1,0 +1,542 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "嘉兴项目接口",
+    "version": "1.0.0"
+  },
+  "tags": [
+    {
+      "name": "审批"
+    },
+    {
+      "name": "进度管理"
+    }
+  ],
+  "paths": {
+    "/api/flow/node": {
+      "get": {
+        "tags": ["审批"],
+        "summary": "查询当前、下一节点信息",
+        "description": "查询当前、下一节点信息",
+        "parameters": [
+          {
+            "name": "idAuditing",
+            "in": "query",
+            "description": "审核流程ID",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "queryType",
+            "in": "query",
+            "description": "1:当前节点 2:下一节点",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "操作成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "petstore_auth": ["write:pets", "read:pets"]
+          }
+        ]
+      }
+    },
+    "/api/progress/search": {
+      "get": {
+        "tags": ["进度管理"],
+        "summary": "查询进度列表",
+        "description": "查询进度列表",
+        "parameters": [
+          {
+            "name": "_id",
+            "in": "query",
+            "description": "进度ID",
+            "required": false,
+            "style": "param",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "text",
+            "in": "query",
+            "description": "进度名称",
+            "required": false,
+            "style": "param",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "操作成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProgressResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/progress/search/audit": {
+      "get": {
+        "tags": ["进度管理"],
+        "summary": "查询进度管理审批列表",
+        "description": "查询进度管理审批列表",
+        "parameters": [
+          {
+            "name": "_id",
+            "in": "query",
+            "description": "进度ID",
+            "required": false,
+            "style": "param",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "description": "状态",
+            "required": false,
+            "style": "param",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "idCreatedBy",
+            "in": "query",
+            "description": "我的发起",
+            "required": false,
+            "style": "param",
+            "explode": true,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "myself",
+            "in": "query",
+            "description": "我的代办",
+            "required": false,
+            "style": "param",
+            "explode": true,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "description": "分页",
+            "required": false,
+            "style": "param",
+            "explode": true,
+            "schema": {
+              "type": "number"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "分页",
+            "required": false,
+            "style": "param",
+            "explode": true,
+            "schema": {
+              "type": "number"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "操作成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProgressResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/progress/audit": {
+      "post": {
+        "tags": ["进度管理"],
+        "summary": "发起审核操作",
+        "description": "进度:新增、批量新增、修改、批量修改、删除、批量删除统一审核接口",
+        "requestBody": {
+          "description": "发起审核操作参数",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PostAuditParam"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "操作成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProgressResponse"
+                }
+              }
+            }
+          }
+        },
+        "x-codegen-request-body-name": "body"
+      },
+      "put": {
+        "tags": ["进度管理"],
+        "summary": "审批结束更新接口",
+        "description": "审批结束更新接口",
+        "requestBody": {
+          "description": "流程ID",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PutAuditParam"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "操作成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProgressResponse"
+                }
+              }
+            }
+          }
+        },
+        "x-codegen-request-body-name": "body"
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "PostAuditParam": {
+        "required": ["actionType"],
+        "type": "object",
+        "properties": {
+          "actionType": {
+            "type": "string",
+            "description": "操作类型",
+            "enum": [
+              "create",
+              "batchCreate",
+              "update",
+              "batchUpdate",
+              "delete",
+              "batchDelete"
+            ]
+          },
+          "data": {
+            "$ref": "#/components/schemas/ProgressParam"
+          },
+          "_id": {
+            "type": "string",
+            "description": "update、delete 必传"
+          },
+          "ids": {
+            "type": "array",
+            "description": "batchDelete、batchUpdate 必传",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "ProgressParam": {
+        "required": [
+          "text",
+          "start_date",
+          "duration",
+          "parent",
+          "custom_data",
+          "resource"
+        ],
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "任务标题"
+          },
+          "start_date": {
+            "type": "Date",
+            "description": "开始时间"
+          },
+          "end_date": {
+            "type": "Date",
+            "example": "null",
+            "description": "结束时间"
+          },
+          "actual_start_date": {
+            "type": "Date",
+            "example": "null",
+            "description": "实际开始时间"
+          },
+          "duration": {
+            "type": "number",
+            "description": "工期"
+          },
+          "progress": {
+            "type": "number",
+            "example": "0",
+            "description": "任务完成百分比"
+          },
+          "open": {
+            "type": "boolean",
+            "example": "true",
+            "description": "是否开启"
+          },
+          "parent": {
+            "type": "string",
+            "description": "关联的父任务ID"
+          },
+          "custom_data": {
+            "$ref": "#/components/schemas/CustomData"
+          },
+          "resource": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "施工负责人"
+          },
+          "delay": {
+            "type": "string",
+            "example": "notstart",
+            "description": "任务状态"
+          },
+          "importantNode": {
+            "type": "boolean",
+            "example": "false",
+            "description": "重要节点"
+          },
+          "taskTags": {
+            "type": "string",
+            "example": "",
+            "description": "任务标签",
+            "enum": ["0", "1"]
+          }
+        }
+      },
+      "CustomData": {
+        "type": "object",
+        "properties": {
+          "priority": {
+            "type": "number",
+            "example": "1",
+            "description": "任务优先级",
+            "enum": [0, 1, 3]
+          },
+          "BIMcoding": {
+            "type": "string",
+            "example": "",
+            "description": "BIM专业构件编码"
+          },
+          "jlPrincipal": {
+            "type": "Date",
+            "example": "",
+            "description": "监理负责人"
+          }
+        }
+      },
+      "PutAuditParam": {
+        "required": ["auditingId"],
+        "type": "object",
+        "properties": {
+          "auditingId": {
+            "type": "string",
+            "description": "流程ID"
+          }
+        }
+      },
+      "Progress": {
+        "type": "object",
+        "properties": {
+          "_id": {
+            "type": "string",
+            "description": "ID"
+          },
+          "text": {
+            "type": "string",
+            "description": "任务标题"
+          },
+          "start_date": {
+            "type": "Date",
+            "description": "开始时间"
+          },
+          "end_date": {
+            "type": "Date",
+            "example": "null",
+            "description": "结束时间"
+          },
+          "actual_start_date": {
+            "type": "Date",
+            "example": "null",
+            "description": "实际开始时间"
+          },
+          "duration": {
+            "type": "number",
+            "description": "工期"
+          },
+          "progress": {
+            "type": "number",
+            "example": "0",
+            "description": "任务完成百分比"
+          },
+          "open": {
+            "type": "boolean",
+            "example": "true",
+            "description": "是否开启"
+          },
+          "parent": {
+            "type": "string",
+            "description": "关联的父任务ID"
+          },
+          "custom_data": {
+            "$ref": "#/components/schemas/CustomData"
+          },
+          "resource": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "施工负责人"
+          },
+          "delay": {
+            "type": "string",
+            "example": "notstart",
+            "description": "任务状态"
+          },
+          "importantNode": {
+            "type": "boolean",
+            "example": "false",
+            "description": "重要节点"
+          },
+          "taskTags": {
+            "type": "string",
+            "example": "",
+            "description": "任务标签",
+            "enum": ["0", "1"]
+          },
+          "projectId": {
+            "type": "string",
+            "description": "关联项目ID"
+          },
+          "atCreated": {
+            "type": "Date",
+            "example": "new Date()",
+            "description": "创建时间"
+          },
+          "idCreatedBy": {
+            "type": "string",
+            "example": "",
+            "description": "发起人"
+          },
+          "deleted": {
+            "type": "boolean",
+            "example": "false",
+            "description": "是否删除"
+          }
+        }
+      },
+      "ProgressResponse": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Progress"
+            }
+          },
+          "msg": {
+            "type": "string"
+          }
+        }
+      },
+      "ApiResponse": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "msg": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "securitySchemes": {
+      "petstore_auth": {
+        "type": "oauth2",
+        "flows": {
+          "implicit": {
+            "authorizationUrl": "http://petstore.swagger.io/oauth/dialog",
+            "scopes": {
+              "write:pets": "modify pets in your account",
+              "read:pets": "read your pets"
+            }
+          }
+        }
+      },
+      "api_key": {
+        "type": "apiKey",
+        "name": "api_key",
+        "in": "header"
+      }
+    }
+  }
+}
