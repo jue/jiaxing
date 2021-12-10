@@ -1,5 +1,9 @@
 ## Linux/MacOS 开发
 
+#### 用户信息
+ID: hantram123
+PW: hantram123
+
 #### 环境依赖
 
 - mongodb
