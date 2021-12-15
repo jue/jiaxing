@@ -4,6 +4,11 @@
 ID: hantram123. 
 PW: hantram123
 
+#### 生产环境
+URL: https://jxtram.tylinsh.com/workBench  
+ID: 王中岳 
+PW: jxtram123@ 
+
 #### 环境依赖
 
 - mongodb
