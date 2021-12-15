@@ -18,15 +18,15 @@ services:
       ME_CONFIG_MONGODB_ADMINPASSWORD: ''
       ME_CONFIG_MONGODB_URL: mongodb://mongodb:27017/
   app:
-    image: jx-tram:latest
-    # build:
-    #     context: .
-    #     dockerfile: Dockerfile.v2
+    #image: jx-tram:latest
+    build:
+        context: .
+        dockerfile: Dockerfile.v2
     environment:
       - AUDITING_SERVER_URI=http://127.0.0.1:7001/t
       - JX_DATABASE=jx-tram
-    # volumes:
-    #   - ./:/app
+    volumes:
+      - ./:/app
     restart: always
     depends_on:
       - redis
@@ -38,4 +38,5 @@ services:
       - -c
       - |
         cd /app
-        yarn start
+        yarn install
+        yarn dev

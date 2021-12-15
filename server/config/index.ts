@@ -24,16 +24,16 @@ export const ONE_MONTH_IN_MS = 30 * 24 * ONE_HOUR_IN_MS;
 // console.log('NODE_ENV',NODE_ENV)
 
 export const CONFIG_MONGO = {
-  host: dev ? '127.0.0.1' : 'mongodb',
-  database: dev ? 'test-jx-tram' : JX_DATABASE,
-  port: dev ? '27099' : '27017',
+  host: dev ? 'mongodb' : 'mongodb',
+  database: dev ? JX_DATABASE : JX_DATABASE,
+  port: dev ? '27017' : '27017',
 };
 
 export const APPROVAL_SERVER_URL =
-  NODE_ENV !== 'production' ? 'http://127.0.0.1:7001/t' : AUDITING_SERVER_URI;
+  NODE_ENV !== 'production' ? AUDITING_SERVER_URI : AUDITING_SERVER_URI;
 
 export const CONFIG_REDIS = {
-  host: dev ? 'localhost' : 'redis',
+  host: dev ? 'redis' : 'redis',
   port: 6379,
 };
 
