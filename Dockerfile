@@ -1,12 +1,12 @@
 FROM mhart/alpine-node:12.16.1
 
-RUN echo "https://mirrors.ustc.edu.cn/alpine/v3.9/main/" > /etc/apk/repositories && \
+RUN echo "https://dl-cdn.alpinelinux.org/alpine/v3.9/main/" > /etc/apk/repositories && \
   apk add --no-cache --virtual builds-deps build-base python
 
 COPY . /app
 WORKDIR /app
 
-RUN npm config set registry https://registry.npm.taobao.org
+# RUN npm config set registry https://registry.npm.taobao.org
 RUN mkdir ycache
 RUN yarn install --cache-folder ./ycache
 RUN yarn build
