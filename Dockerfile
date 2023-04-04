@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:12.16.1
+FROM node:14-alpine
 
 RUN echo "https://dl-cdn.alpinelinux.org/alpine/v3.9/main/" > /etc/apk/repositories && \
   apk add --no-cache --virtual builds-deps build-base python
