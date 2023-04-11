@@ -23,7 +23,7 @@ const server1: Express = express();
 server.use(cors());
 server.use(cookieParser());
 server.use([jwtVerifyPagesMiddleware, cacheAccountMiddleware]);
-server.use(['/tylinsh/approval'], proxyToApproval);
+// server.use(['/tylinsh/approval'], proxyToApproval);
 server.use(ignoreApprolRequests(bodyParser.urlencoded({ extended: false })));
 server.use(ignoreApprolRequests(bodyParser.json({ limit: '50mb' })));
 server.use(compression());
