@@ -1,4 +1,4 @@
-FROM node:14-alpine
+FROM node:20
 
 RUN echo "https://dl-cdn.alpinelinux.org/alpine/v3.9/main/" > /etc/apk/repositories && \
   apk add --no-cache --virtual builds-deps build-base python
